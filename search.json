@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Epinowcast community",
+    "section": "",
+    "text": "We strongly believe that the challenges we face in the real-time analysis of infectious disease can only be overcome as a community collaboration.\nWe are still in the early stages of building our community so now is a great time to jump in."
+  },
+  {
+    "objectID": "help.html",
+    "href": "help.html",
+    "title": "Getting help",
+    "section": "",
+    "text": "Real-time infectious disease modelling can be challenging and we often need to produce results on a short timeline. Whilst we have tried to make our tooling as easy to use as possible there will inevitably be times when there are issues or even mistakes.\nLuckily as a community we are keen to help so don’t worry about reaching out. Below are some tips on how to do this effectively and where to ask."
+  },
+  {
+    "objectID": "help.html#how-to-ask-a-question",
+    "href": "help.html#how-to-ask-a-question",
+    "title": "Getting help",
+    "section": "How to ask a question",
+    "text": "How to ask a question\nAnswering questions can be time-consuming so making your question as easy as possible to understand is key.\nFor questions related to code this is why the first step is to create an easy to folloe reproducible example (or reprex). This can be a challenge but luckily there is a helpful package reprex to give you a hand. To get you started check out the great help page from the tidyverse and this nice issue from Ryan Teo which explores a bug he found with the epinowcast R package.\nFor questions related to theory or interpretation try to ask your question as clearly as possible. After writing it out review what you have written in order to check it is as easy to understand as possible."
+  },
+  {
+    "objectID": "help.html#where-to-ask",
+    "href": "help.html#where-to-ask",
+    "title": "Getting help",
+    "section": "Where to ask",
+    "text": "Where to ask\nNow you have your question in hand what do you do with it? Here are some options:\n\ncommunity.epinowcast.org This is a warm and welcoming place to ask questions, introduce yourself as a new community member, and discuss advances in the literature, other tools that are available, and potential use cases for real-time analysis methods.\nWe run a community Twitter account @epinowcast which will retweet questions asked on Twitter to our community. They are very nice as are their friends.\nIf you think you have found a bug, please follow the instructions on contributing to the community."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "contribute.html",
+    "href": "contribute.html",
+    "title": "Contribute to Epinowcast",
+    "section": "",
+    "text": "We strongly believe that the challenges we face in the real-time analysis of infectious disease can only be overcome as a community.\nWe can only function with contributions from our members. No matter your skills or background contributions are welome."
+  },
+  {
+    "objectID": "contribute.html#take-part-in-community-discussions",
+    "href": "contribute.html#take-part-in-community-discussions",
+    "title": "Contribute to Epinowcast",
+    "section": "Take part in community discussions",
+    "text": "Take part in community discussions\nThe easiest way to be involved is to show up to community meetings, join in community discussions, for example questions related to user experiences, ask questions, and let others know if you are working on similar problems. Join community.epinowcast.org to get started."
+  },
+  {
+    "objectID": "contribute.html#answer-questions",
+    "href": "contribute.html#answer-questions",
+    "title": "Contribute to Epinowcast",
+    "section": "Answer questions",
+    "text": "Answer questions\nThe next step is consider answering questions related to your expertise. This could be helping out with using our tools or it could be domain expertise you can share with others. Remeber we are a caring community and some people asking questions may not know best practices. Try to be friendly and considerate. If you think it might help consider pointing new question askers to our help page."
+  },
+  {
+    "objectID": "contribute.html#file-issues",
+    "href": "contribute.html#file-issues",
+    "title": "Contribute to Epinowcast",
+    "section": "File issues",
+    "text": "File issues\nIf you’ve found a bug, first create a minimal reprex. Make sure to spend time making it as easy to understand as possible. Then file it on the GitHub repository for the package."
+  },
+  {
+    "objectID": "contribute.html#contribute-documentation",
+    "href": "contribute.html#contribute-documentation",
+    "title": "Contribute to Epinowcast",
+    "section": "Contribute documentation",
+    "text": "Contribute documentation\nIf you are a bit more experienced, and ready to make pull requests then expanding or improving our documentation is very helpful. The key to adding documentation is that we use the roxygen2 package when documenting R code. This means that documentation is found alongside the R code and there are some special tags."
+  },
+  {
+    "objectID": "contribute.html#contribute-code",
+    "href": "contribute.html#contribute-code",
+    "title": "Contribute to Epinowcast",
+    "section": "Contribute code",
+    "text": "Contribute code\nIf you are more experienced, you might want to help with package development. The first step to making code contributions is to make an issue or comment on the issue you plan to address. When implementing your contribution remember to follow the package conventions."
+  },
+  {
+    "objectID": "contribute.html#contribute-methodology",
+    "href": "contribute.html#contribute-methodology",
+    "title": "Contribute to Epinowcast",
+    "section": "Contribute methodology",
+    "text": "Contribute methodology\nAs a research community, we are interested in improving the underlying basis of our tools and methods. If you have a suggestion for a methodological improvement, or an extension please share it with our community as a project proposal."
+  },
+  {
+    "objectID": "contribute.html#contribute-evaluations-and-case-studies",
+    "href": "contribute.html#contribute-evaluations-and-case-studies",
+    "title": "Contribute to Epinowcast",
+    "section": "Contribute evaluations and case studies",
+    "text": "Contribute evaluations and case studies\nOur tools and methods are designed to be flexible. We don’t know what the best models are for different types of question. If you have an evaluation of our methods or a case study implementing them we would be keen to see them and this will likely help others as well as informing future developments. Share these with our community here and here."
+  },
+  {
+    "objectID": "contribute.html#contribute-alternatives",
+    "href": "contribute.html#contribute-alternatives",
+    "title": "Contribute to Epinowcast",
+    "section": "Contribute alternatives",
+    "text": "Contribute alternatives\nThe landscape of real-time infectious disease modelling is wide and we don’t have all the answers. If you come across a method or tool that answers similar questions to those we target, you think will interest our community, or that is just in scope and you’d like to discuss please share it here. If we get sufficient interest we are also keen on building a resource section to point communnity members to alternatives and other other resources they may find useful. If interested in taking this forward post here with ideas."
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "How are we funded",
+    "section": "",
+    "text": "This pages highlights funding we have recieved as a community as well as funding supporting our contributors. If you have made contributions supported by a funding source please add to this list."
+  },
+  {
+    "objectID": "funding.html#current-funding",
+    "href": "funding.html#current-funding",
+    "title": "How are we funded",
+    "section": "Current funding",
+    "text": "Current funding\n\nContributors\nSam Abbott and Sebastian Funk are supported by a Wellcome Trust Senior Research Fellowship to Sebastian Funk (210758/Z/18/Z)."
+  }
+]
