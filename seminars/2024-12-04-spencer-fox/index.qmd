@@ -1,10 +1,10 @@
 ---
 title: "Spencer Fox - Optimizing disease outbreak forecast ensembles and the use of microHubs" 
-date: 2024-12-04
+date: 2025-01-08
 comments: false
 ---
 
-On Wednesday the 4th of December at 3pm UK time, Dr Spencer Fox will discuss ensemble models for infectious diseases and microHubs.
+On Wednesday the 8th of January at 3pm UK time, Dr Spencer Fox will discuss ensemble models for infectious diseases and microHubs.
 
 On the basis of historical influenza and COVID-19 forecasts, we found that more than 3 forecast models are needed to ensure robust ensemble accuracy. Additional models can improve ensemble performance, but with diminishing accuracy returns. This understanding will assist with the design of current and future collaborative infectious disease forecasting efforts. Building on this work, we are pioneering the use of “microHubs” that mimic larger collaborative forecast hubs using a minimal subset of robust forecasting models, dramatically lowering the required resources for forecasting and allowing for organizations to mirror hubs using privately held data. I will discuss our pilot project from the past year for influenza, COVID-19, and RSV healthcare forecasts for the Paraguay Ministerio de Salud Pública y Bienestar Social in collaboration with the CDC, Council for State and Territorial Epidemiologists, and the Pan American Health Organization.
 
