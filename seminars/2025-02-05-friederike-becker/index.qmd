@@ -1,0 +1,27 @@
+---
+title: "Friederike Becker - The Influence of Ensemble Size and Composition on Performance of Combined Real-time COVID-19 Forecasts" 
+date: 2025-02-05
+comments: false
+---
+
+On Wednesday the 5th of February at 3pm UK time, Friederike (Rike) Becker will discuss the influence of ensemble size and composition on performance of combined real-time COVID-19 forecasts.
+
+During infectious disease outbreaks, short-term forecasts can play an important role for both decision makers and the public. While previous research has shown that combining individual forecasts into an ensemble improves accuracy and consistency, practical guidance for organisers of multi-model prediction platforms on how to construct an ensemble has been scarce. In particular, it is unclear how ensemble performance relates to the size of the underlying model base, a relevant question when relying on voluntary contributions from modelling teams that face competing priorities. Furthermore, the exact composition of an ensemble forecast may influence its performance. Centrally, such a method can either include all models equally or, alternatively, discriminate based on models’ merit or other non-performance-related characteristics. Using data from the European Covid-19 Forecast Hub, we investigate these questions, with the aim of offering practical guidance for organisers of multi-model prediction platforms during infectious disease outbreaks.
+We found that including more models both improved and stabilized aggregate ensemble performance, while selecting for better component models did not yield any particular advantage. Diversity among models, whether measured numerically or qualitatively, did not have a clear impact on ensemble performance.
+These results suggest that for those soliciting contributions to collaborative ensembles there are more obvious gains to be made from increasing participation to moderate levels than from optimising component models.
+
+Friederike (Rike) Becker is a PhD student at the Karlsruhe Institute of Technology (KIT). Previously, she has obtained a MSc in Applied Statistics at the University of Göttingen and has written her masters thesis under the supervision of Nikos Bosse at LSHTM. Her current research lies at the intersection of statistics and economics, with a particular research interest in forecasting.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
