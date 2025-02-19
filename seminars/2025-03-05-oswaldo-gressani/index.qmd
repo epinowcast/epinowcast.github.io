@@ -1,0 +1,25 @@
+---
+title: "Oswaldo Gressani - The EpiLPS ecosystem" 
+date: 2025-03-05
+comments: false
+---
+
+On Wednesday the 5th of March at 3pm UK time, Oswaldo Gressani will discuss the EpiLPS ecosystem.
+
+Recent epidemics have underlined the crucial role of statistical modeling. Statistical models form the core backbone that is used to compute estimates of key epidemiological quantities from infectious disease data. Having statistical methods that deliver state-of-the art analytical tools is not only important for understanding the transmission dynamics of a pathogen, but also for orienting effective public health strategies to mitigate disease spreading and hence for future pandemic preparedness. Laplacian-P-splines (LPS) provide a fast and flexible Bayesian inference methodology anchored around Laplace approximations and P-splines. The LPS methodology has recently been extended to infectious disease models in the EpiLPS ecosystem (https://epilps.com/) for estimation of various epidemic metrics such as the time-varying reproduction number, the incubation period and also for nowcasting. In this seminar, Dr. Gressani will highlight the role of P-splines for modeling smooth epidemic model components and illustrate the capability of EpiLPS to carry out inference through a completely sampling-free scheme that involves a negligible computational cost as compared to classic Markov chain Monte Carlo techniques. Moreover, he will emphasize how the associated R package can be used for analysis of real epidemic data. Finally, he will discuss current and future extensions of the EpiLPS toolbox.
+
+Dr. Gressani is currently working as a postdoctoral researcher at the Data Science Institute (DSI) at Hasselt University in Belgium. His work focuses on extensions of EpiLPS to other key epidemiological characteristics and in particular to epidemiological delay distributions. He recently obtained a FWO (Fonds Wetenschappelijk onderzoek) outgoing mobility grant for a short research stay at Hong Kong University to work on EpiLPS extensions and related topics. Previously, he obtained his PhD in Statistics in 2020 from the University of Louvain under the supervision of Prof. Philippe Lamber. Apart from EpiLPS, Dr. Gressani has research interests in computational methods in statistics and theoretical contributions to Bayesian methods. He loves coding in general (R, C++, html, Markdown) and developed several R projects/packages which are available on his personal webpage (https://greoswa.com/CV.html).
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
