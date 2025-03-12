@@ -1,0 +1,25 @@
+---
+title: "Kylie Ainslie - Scabies, who cares?" 
+date: 2025-04-02
+comments: false
+---
+
+On Wednesday the 2nd of April at 3pm UK time, Kylie Ainslie will talk about her work on scabies.
+
+Scabies is a contagious skin disease caused by the infestation of the skin by the Sarcopes scabiei mite, resulting in an itchy rash. Scabies affects over 400 million people worldwide each year. A rise in scabies cases has been observed in recent years throughout Western Europe. Despite the high prevalence of scabies in parts of the world and increasing scabies cases across Europe, some key epidemiological characteristics describing the spread of scabies infections have not been described, such as the serial interval – the time between symptom onset in an infector and symptom onset in an infectee – and the reproduction number –  the average number of people an infected person will go on to infect. Accurate estimates of the epidemiological characteristics describing the spread of scabies are essential for designing effective control strategies to curb disease transmission. In this talk, Kylie will present work on estimating these key epidemiological characteristics of scabies using various mathematical methods and data sources. She will also introduce mitey, an R package she developed that enables researchers and public health professionals to apply these methods for their own analyses. This open-source tool facilitates reproducibility and allows users to estimate key parameters such as the serial interval and reproduction number using their own datasets. Finally, she will discuss the policy implications of these findings and how they can inform the design of strategies to prevent future outbreaks.
+
+Dr. Kylie Ainslie is an infectious disease modeller at the Dutch National Institute of Public Health and the Environment (RIVM) and an Honorary Assistant Professor at the University of Hong Kong School of Public Health. Her work at RIVM focuses on using mathematical models of infectious disease transmission to determine the impact of vaccination strategies on disease spread, and the development of statistical methods to determine how vaccine-induced protection wanes over time. At the University of Hong Kong, her work focuses on determining the real-world protection provided by vaccines against respiratory diseases, such as COVID-19 and influenza. Kylie strongly believes in open-source and reproducible research and loves coding in R.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
