@@ -1,0 +1,25 @@
+---
+title: "Dongxuan Chen - From generation interval to superspreading potential, from population level estimates to setting-specific estimates, in the case of COVID-19" 
+date: 2025-05-07
+comments: false
+---
+
+On Wednesday the 7th of May at 3pm UK time, Dongxuan Chen will talk about her work on COVID-19.
+
+This seminar consists of two parts, the first part will show how to obtain temporal estimates of the generation interval at population level, the second part will show how realized generation interval and superspreading potential might differ across settings. First, as Park et al (Park et al., 2021 PNAS) illustrated that sampling direction bias during an ongoing epidemic would cause systematic bias in the forward serial interval, it is not recommended to directly use the serial interval as a proxy for the generation interval, especially for temporal estimates. Therefore, Chen et al (Chen et al., 2022 Nat Commun) developed an inferential framework based on Park et al’s theory to obtain the time-varying forward generation interval that corrects for the sampling direction bias, from contact tracing data with both symptom onset and exposure window available. Second, a detailed investigation was conducted to examine the potential differences in realized generation interval and superspreading potential (as measured by the degree of overdispersion in cluster size distribution) in various transmission settings in Hong Kong during the COVID-19 pandemic before the Omicron wave. As contact tracing for clustered transmission events cannot clearly indicate the individual-level transmission chains, a mixture model was used to infer the generation interval, and a negative binomial model that considered underreporting scenario was used to estimate the mean and degree of overdispersion of the cluster size distribution. Furthermore, this study explored how different stringency of the control measures could have impact on the realized generation interval and final cluster size observed.
+
+Dr. Dongxuan Chen obtained her PhD degree in infectious disease modelling from the University of Hong Kong, with thesis entitled “Investigating changes in COVID-19 epidemiological parameters from different perspectives” supervised by Prof. Ben Cowling. Before joining HKU, she completed her master’s degree in statistical science for the life and behavioral sciences from Leiden University, the Netherlands. She did her master’s internship at the Dutch National Institute for Public Health and the Environment (RIVM) in early 2020, supervised by Prof. Jacco Wallinga, and contributed to some of the early COVID-19 studies.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
