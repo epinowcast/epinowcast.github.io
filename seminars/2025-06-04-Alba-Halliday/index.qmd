@@ -1,0 +1,25 @@
+---
+title: "Alba Halliday - Modelling diseases with delayed reporting and nested structures using a hierarchical framework" 
+date: 2025-06-04
+comments: false
+---
+
+On Wednesday the 4th of June at 3pm UK time, Alba Halliday will talk about their work on modeling nested data with a reporting delay.
+
+Alba will present a hierarchical Bayesian framework for modelling nested data with a reporting delay in disease surveillance systems. This work was developed in collaboration with the Oswaldo Cruz Foundation (Fiocruz) in Brazil, which supports the Ministry of Health in monitoring cases of severe acute respiratory illness (SARI) and COVID-19. The approach is motivated by the operational warning system currently used for SARI surveillance, where forecasts for total SARI cases and those testing positive for SARS-CoV-2 are produced independently. To improve nowcasting predictions and support decision-making, they propose a joint modelling framework that accounts for the nested structure of the data. To facilitate adoption, they developed an accompanying R package, NimbleCast, which enables streamlined implementation of the framework within existing workflows.
+
+Alba Halliday is a Research Associate at the MRC Centre for Global Infectious Disease Analysis at Imperial College London. They completed their PhD in Statistics at the University of Glasgow. Their research focuses on improving the surveillance of and response to public health threats, and on making statistical methods more accessible through open-source tools as well as collaborative partnerships.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
