@@ -1,0 +1,25 @@
+---
+title: "Maile Thayer - Real-time modeling during the 2024-2025 Dengue Epidemic in Puerto Rico: Applications and insights" 
+date: 2025-07-02
+comments: false
+---
+
+On Wednesday the 2nd of July at 3pm UK time, Maile Phillips will talk about her work on dengue.
+
+The past two years have seen unprecedented dengue virus transmission, with over 14 million cases reported globally in 2024. In March of 2024, Puerto Rico declared a public health emergency due to escalating dengue activity. This then prompted the Centers for Disease Control and Prevention (CDC) to activate a dengue emergency response and issue a Health Alert Network advisory. As the modeling task force for the CDC’s 2024-2025 Dengue Response, Maile's team developed and deployed a suite of real-time modeling tools to support public health decision-making throughout the epidemic in Puerto Rico. These modeling tools included dengue epidemic alert thresholds, nowcasting, time-varying reproductive number estimation, and hospital capacity models. These tools were regularly updated and disseminated to partners to inform situational awareness. This presentation will highlight the role of modeling during the dengue response in Puerto Rico, key methodological approaches used, and lessons learned for future outbreak preparedness and response. 
+
+Maile B. Thayer, PhD, MS is the Team Lead for the Epidemic Analytics Team at the Dengue Branch at the Centers for Disease Control and Prevention (CDC) in San Juan, Puerto Rico. Her work at the Dengue Branch focuses on developing and evaluating mathematical and statistical models to improve surveillance, early warning, prevention, and control of arboviral diseases and to identify and characterize underlying drivers of arboviral disease epidemics and spread. Prior to the CDC, Maile earned her Masters in Biostatistics at Harvard T. H. Chan School of Public Health in 2017 and her PhD in Epidemiology of Microbial Diseases at Yale University in 2021. Some of her previous research focused on mathematical models for typhoid and other diseases, characterizing disease dynamics and evaluating the cost-effectiveness of interventions.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
