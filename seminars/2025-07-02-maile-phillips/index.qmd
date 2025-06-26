@@ -1,5 +1,5 @@
 ---
-title: "Maile Phillips - Real-time modeling during the 2024-2025 Dengue Epidemic in Puerto Rico: Applications and insights" 
+title: "Maile Thayer - Real-time modeling during the 2024-2025 Dengue Epidemic in Puerto Rico: Applications and insights" 
 date: 2025-07-02
 comments: false
 ---
