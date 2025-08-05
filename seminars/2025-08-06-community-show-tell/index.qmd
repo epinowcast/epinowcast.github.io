@@ -1,0 +1,42 @@
+---
+title: "Community Show and Tell - Recent work and ideas"
+date: 2025-08-06
+comments: false
+---
+
+On Wednesday the 6th of August at 3pm UK time, we're hosting a casual community show and tell session instead of our regular seminar format.
+
+This will be a relaxed discussion where community members can share what they've been working on recently, present new ideas, and demonstrate ongoing projects.
+Feel free to bring a few slides if you wish, but this is entirely optional.
+
+## Example topics for discussion
+
+Sam Abbott will be sharing some recent ideas he's been exploring:
+
+**CensoredDistributions.jl** - A Julia package developed during the 2024 Epistorm Rt collaborathon for handling censored distributions in outbreak data.
+The package addresses three types of censoring common in epidemiological data: primary event censoring, interval censoring, and double interval censoring.
+It integrates with Distributions.jl and Turing.jl, using Julia's multiple dispatch for flexible distribution handling.
+
+**Baseball stats, model cards, and forecasting performance** - An exploration of model evaluation frameworks and ensemble modelling approaches, examining how to distinguish individual model value from ensemble value and addressing challenges in ensemble model weighting.
+
+**A basket of baselines** - A concept for creating standardised baseline forecast models from different perspectives (time series expert, infectious disease specialist, etc.) to serve as reference points for understanding and comparing more complex forecasting approaches.
+
+## Format
+
+This session is designed to be interactive and collaborative.
+All community members are encouraged to share their recent work, interesting problems they're tackling, or new methodological ideas.
+The focus is on fostering discussion and knowledge sharing across the community.
+
+A recording of this session will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also contribute topics or ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
