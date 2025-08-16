@@ -1,0 +1,103 @@
+---
+title: "Baseline nowcasting methods for handling delays in epidemiological data"
+author:
+  -name: Kaitlyn Johnson
+  affiliation: London School of Hygiene and Tropical Medicine
+  orcid: 0000-0001-8011-0012
+date: 2025-08-17
+categories:
+  - paper-summary
+  - nowcasting
+  - R package
+comments: false
+bibliography: ref.bib
+---
+
+
+## Summary 
+
+Delays in epidemiological data can lead to systematic downward bias in recent data, resulting in misleading trends in real-time data used for public health-decision making. Methods to adjust for this bias via nowcasting lack an established baseline method. This gap limits both methodological development and practical adoption in public health. We address these needs with the `baselinenowcast` R package, which implements an empirically-driven chain ladder nowcasting method. The chain ladder approach, adapted from actuarial science, uses historical reporting patterns to estimate not-yet-reported cases. We adopted an implementation of this method from the German COVID-19 Nowcast Hub, where it served as a reference model. After verifying our implementation reproduced the original nowcasts, we tested specifications tailored to common epidemiological scenarios. The method consistently outperformed simpler baseline approaches. Performance improved further when tuned to specific epidemiological contexts.
+The `baselinenowcast` package provides modular functions that make implementation straightforward for practitioners. Find out more in the [preprint](https://www.medrxiv.org/content/10.1101/2025.08.14.25333653v1) and explore the [package](https://baselinenowcast.epinowcast.org/index.html).
+
+## What is nowcasting?
+
+- Delays in reporting of epidemiological events can create a misleading impression of declining trends in recent data because recent counts of these events are under-represented. 
+
+- For example, if we index cases by symptom onset in real-time, the cases from the most recent time will be incomplete because cases reported with longer delays have yet to be observed, i.e. these events are “right-truncated”. These are represented by the lighter shaded squares in the reporting triangle and the bars on the right. 
+
+- Correcting for this systematic downward bias by making estimates of the yet-to-be-observed counts to estimate the “final” count, is called nowcasting. For more on nowcasting in practice, check out Johannes Bracher’s post about the German COVID-19 Nowcast Hub challenge. 
+
+![Schematic figure depicting the reporting triangle (left) where rows are “reference times”, e.g. symptom onset date or date of hospital admissions and columns are reporting delays, and numbers indicate the number of incident cases at that reference time and reporting delay. The bar chart (right) shows the sum of the cases by reference time, with light shaded bars corresponding to the cases that have not yet been reported as of the latest reference time. ](reporting_triangle.png)
+
+## Why/when should I care about it?
+
+- Mainly because it’s very common in epidemiology, and interpreting the data at face value will be misleading! Systematic downward bias is likely to occur any time case counts are indexed by an event that occurs before reporting and/or when data comes in from different sources with different reporting lags (for example if ED visits are reported by multiple facilities and each facility reports on a different day of the week)
+
+- In public health practice, this is often “handled” by shortening time series to remove the partially observed data, or shading over it to indicate its incompleteness, or in some cases leaving as is despite it being so easily misinterpreted. 
+
+- Here’s an example from the 2024-2025 measles outbreak in the U.S. Cases are indexed by the date of rash onset – which means in real-time cases are getting assigned to previous dates. It takes time from the onset of rash to seek healthcare, through test collection and processing, and finally to reporting the test results, which means the delay between rash onset and when that case appears in the data can be many weeks. On May 15, 2025, we will not be aware of any rash onsets on that day, and only very few, even from the previous week, resulting in the characteristic downward bias we see in this data. At the time, cases were in fact declining, but due to right-truncation, it was difficult to disentangle whether this was a decline or simply missing reports. 
+
+![Screenshot of cases from the U.S. CDC’s website showing the number of national measles cases indexed by rash onset date. Accessed from: https://ww.cdc.gov/measles/data-research/index.html](cdc_measles.png)
+
+## What can we do about it? 
+
+- A number of nowcasting methods have been developed to handle this exact phenomena @meyer2017spatio; @abbott2021epinowcast; @mcgough2020nowcasting; @lopes2025nowcaster; @gressani2021epilps, and some have been successfully operationalized, such as in Germany at RKI for COVID-19 and acute respiratory virus incidence @respinow_hub_2025; @scholler2025covid, at UKHSA for flu, norovirus, and RSV @mellor2025application, at the U.S. CDC for visual display of trends in ILI @cdc_respnet_2025, and in Massachusetts for COVID-19 admissions @massachusetts_syndromic_surveillance. 
+
+- However, these are still the exception, as is exemplified by the U.S. CDC’s measles dashboard @cdc_measles_data_2025, with routine nowcast correction still lacking widespread public health adoption. 
+- We identified two critical gaps in this space: 
+
+1. There isn’t an empirically-driven, relatively straightforward tool catered to the epidemiological context that can fill the @Wolffram2023 needs of public health practitioners. 
+
+1. While there are several complex methods for nowcasting, there isn’t a baseline method that can be used as a reference model for other methods to be compared against. 
+
+## What did we do?
+
+- To address these two gaps, we developed an R package, called baselinenowcast which implements an empirically-driven chain ladder method, based on the approach used by Wolffram et al. @Wolffram2023 as a reference model in the German COVID Nowcast Hub @hospitalization_nowcast_hub_2025 challenge in 2021 and 2022. 
+
+- It has a modular function-based interface that enables inspection of the individual components at each step in the nowcasting procedure, which are outlined in the schematic figure.
+
+![Schematic figure describing the modular steps in baselinenowcast at a high-level.](method_schematic.png)
+
+- The package has a number of features specifically catered to common epidemiological contexts (such as the ability to borrow estimates from different strata or to change the target to compute say 7-day rolling sums), and documentation tailored to infectious disease surveillance problems.
+
+## How did we validate the method?
+
+- We first verified that the method produced equivalent outputs to the one it was based on in the German COVID-19 Nowcast Hub. 
+
+- Then we tested out different method specifications that are available as options in the baselinenowcast package and compared the performance of these modifications to the package default applied to COVID-19 data. 
+
+- Below is an example comparing the performance of the default baselinenowcast specification (in purple) to a modification which estimates separate delay distributions by weekday (light blue). This shows daily same-day nowcasts compared to the initial reports as of the nowcast date (gray) and the final observed counts (red). The default method doesn’t account for weekday effects in reporting and as a result exhibits strong weekday periodicity, whereas the weekday filter method is much smoother because it knows to expect certain delays on certain weekdays. 
+
+![Example of daily same-day nowcasts from the default baselinenowcast specification (purple) and the specification that fits reporting delays to each weekday (light blue) compared to the finally observed data (red) and the data available as of the nowcast date (gray). ](method_specification_comparison_example.png)
+
+- We also compared the performance of multiple baselinenowcast specifications to models used to nowcast norovirus in England from UKHSA, which had been evaluated in a previous study (@mellor2025application), including a previously used baseline method and what is currently used in public health practice. 
+
+## Key takeaways:
+
+- The `baselinenowcast` method consistently improved performance over unadjusted data.
+
+- It also performed better than other baseline methods used in previous studies, including those that were developed ad-hoc for specific purposes
+
+- The default performed well when we applied it to COVID-19 and likely is a reasonable first pass that someone could use out of the box.
+
+- Exploratory data analysis of the delay distributions revealed differences by age group and weekday effects –  tuning our `baselinenowcast` specification to account for this improved performance over the default, and we recommend tuning it for your context. 
+
+- Using `baselinenowcast` compared to other methods helped us better understand the strengths and weaknesses of those methods. 
+
+Find out more:
+
+- Read the [preprint](https://www.medrxiv.org/content/10.1101/2025.08.14.25333653v1).
+
+- Check out the [“Getting started” vignette](https://baselinenowcast.epinowcast.org/articles/baselinenowcast.html) to run through an example using the package’s low-level modular functions, and check out the [`baselinenowcast` GitHub](https://github.com/epinowcast/baselinenowcast).
+
+- The package is still in-development, so we particularly welcome feedback on how to improve the user-interface and communication of the method, and ways that it will be easier to adopt the method into routine public health practice. Feel free to send us an email directly (kaitlyn.johnson@lshtm.ac.uk) or post in the [epinowcast forum](https://community.epinowcast.org/latest).
+
+## References
+
+
+
+
+
+
+
+
