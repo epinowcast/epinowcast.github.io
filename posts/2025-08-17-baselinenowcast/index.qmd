@@ -1,8 +1,8 @@
 ---
-title: "Baseline nowcasting methods for handling delays in epidemiological data
-"
-author: Kaitlyn Johnson
-  afiliation: London School of Hygiene and Tropical Medicine
+title: "Baseline nowcasting methods for handling delays in epidemiological data"
+author:
+  -name: Kaitlyn Johnson
+  affiliation: London School of Hygiene and Tropical Medicine
   orcid: 0000-0001-8011-0012
 date: 2025-08-17
 categories:
@@ -27,7 +27,7 @@ The `baselinenowcast` package provides modular functions that make implementatio
 
 - Correcting for this systematic downward bias by making estimates of the yet-to-be-observed counts to estimate the “final” count, is called nowcasting. For more on nowcasting in practice, check out Johannes Bracher’s post about the German COVID-19 Nowcast Hub challenge. 
 
-[!Schematic figure depicting the reporting triangle (left) where rows are “reference times”, e.g. symptom onset date or date of hospital admissions and columns are reporting delays, and numbers indicate the number of incident cases at that reference time and reporting delay. The bar chart (right) shows the sum of the cases by reference time, with light shaded bars corresponding to the cases that have not yet been reported as of the latest reference time. ](reporting_triangle.png)
+![Schematic figure depicting the reporting triangle (left) where rows are “reference times”, e.g. symptom onset date or date of hospital admissions and columns are reporting delays, and numbers indicate the number of incident cases at that reference time and reporting delay. The bar chart (right) shows the sum of the cases by reference time, with light shaded bars corresponding to the cases that have not yet been reported as of the latest reference time. ](reporting_triangle.png)
 
 ## Why/when should I care about it?
 
@@ -37,11 +37,11 @@ The `baselinenowcast` package provides modular functions that make implementatio
 
 - Here’s an example from the 2024-2025 measles outbreak in the U.S. Cases are indexed by the date of rash onset – which means in real-time cases are getting assigned to previous dates. It takes time from the onset of rash to seek healthcare, through test collection and processing, and finally to reporting the test results, which means the delay between rash onset and when that case appears in the data can be many weeks. On May 15, 2025, we will not be aware of any rash onsets on that day, and only very few, even from the previous week, resulting in the characteristic downward bias we see in this data. At the time, cases were in fact declining, but due to right-truncation, it was difficult to disentangle whether this was a decline or simply missing reports. 
 
-[!Screenshot of cases from the U.S. CDC’s website showing the number of national measles cases indexed by rash onset date. Accessed from: https://ww.cdc.gov/measles/data-research/index.html](cdc_measles.png)
+![Screenshot of cases from the U.S. CDC’s website showing the number of national measles cases indexed by rash onset date. Accessed from: https://ww.cdc.gov/measles/data-research/index.html](cdc_measles.png)
 
 ## What can we do about it? 
 
-- A number of nowcasting methods have been developed to handle this exact phenomena @meyer2017spatio; @abbott2021epinowcast; @mcgough2020nowcasting; @lopes2025nowcaster; @gressani2021epilps, and some have been successfully operationalized, such as in Germany at RKI for COVID-19 and acute respiratory virus incidence @respinow_hub_2025; @scholler2025covidScholler, at UKHSA for flu, norovirus, and RSV @mellor2025application, at the U.S. CDC for visual display of trends in ILI @cdc_respnet_2025, and in Massachusetts for COVID-19 admissions @massachusetts_syndromic_surveillance. 
+- A number of nowcasting methods have been developed to handle this exact phenomena @meyer2017spatio; @abbott2021epinowcast; @mcgough2020nowcasting; @lopes2025nowcaster; @gressani2021epilps, and some have been successfully operationalized, such as in Germany at RKI for COVID-19 and acute respiratory virus incidence @respinow_hub_2025; @scholler2025covid, at UKHSA for flu, norovirus, and RSV @mellor2025application, at the U.S. CDC for visual display of trends in ILI @cdc_respnet_2025, and in Massachusetts for COVID-19 admissions @massachusetts_syndromic_surveillance. 
 
 - However, these are still the exception, as is exemplified by the U.S. CDC’s measles dashboard @cdc_measles_data_2025, with routine nowcast correction still lacking widespread public health adoption. 
 - We identified two critical gaps in this space: 
@@ -56,7 +56,7 @@ The `baselinenowcast` package provides modular functions that make implementatio
 
 - It has a modular function-based interface that enables inspection of the individual components at each step in the nowcasting procedure, which are outlined in the schematic figure.
 
-[!Schematic figure describing the modular steps in baselinenowcast at a high-level.](method_schematic.png)
+![Schematic figure describing the modular steps in baselinenowcast at a high-level.](method_schematic.png)
 
 - The package has a number of features specifically catered to common epidemiological contexts (such as the ability to borrow estimates from different strata or to change the target to compute say 7-day rolling sums), and documentation tailored to infectious disease surveillance problems.
 
@@ -68,7 +68,7 @@ The `baselinenowcast` package provides modular functions that make implementatio
 
 - Below is an example comparing the performance of the default baselinenowcast specification (in purple) to a modification which estimates separate delay distributions by weekday (light blue). This shows daily same-day nowcasts compared to the initial reports as of the nowcast date (gray) and the final observed counts (red). The default method doesn’t account for weekday effects in reporting and as a result exhibits strong weekday periodicity, whereas the weekday filter method is much smoother because it knows to expect certain delays on certain weekdays. 
 
-[!Example of daily same-day nowcasts from the default baselinenowcast specification (purple) and the specification that fits reporting delays to each weekday (light blue) compared to the finally observed data (red) and the data available as of the nowcast date (gray). ](method_specification_comparison_example.png)
+![Example of daily same-day nowcasts from the default baselinenowcast specification (purple) and the specification that fits reporting delays to each weekday (light blue) compared to the finally observed data (red) and the data available as of the nowcast date (gray). ](method_specification_comparison_example.png)
 
 - We also compared the performance of multiple baselinenowcast specifications to models used to nowcast norovirus in England from UKHSA, which had been evaluated in a previous study (@mellor2025application), including a previously used baseline method and what is currently used in public health practice. 
 
