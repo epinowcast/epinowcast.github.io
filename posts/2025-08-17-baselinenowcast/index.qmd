@@ -10,13 +10,14 @@ categories:
   - nowcasting
   - R package
 comments: false
+bibliography: ref.bib
 ---
 
 
 ## Summary 
 
 Delays in epidemiological data can lead to systematic downward bias in recent data, resulting in misleading trends in real-time data used for public health-decision making. Methods to adjust for this bias via nowcasting lack an established baseline method. This gap limits both methodological development and practical adoption in public health. We address these needs with the `baselinenowcast` R package, which implements an empirically-driven chain ladder nowcasting method. The chain ladder approach, adapted from actuarial science, uses historical reporting patterns to estimate not-yet-reported cases. We adopted an implementation of this method from the German COVID-19 Nowcast Hub, where it served as a reference model. After verifying our implementation reproduced the original nowcasts, we tested specifications tailored to common epidemiological scenarios. The method consistently outperformed simpler baseline approaches. Performance improved further when tuned to specific epidemiological contexts.
-The `baselinenowcast` package provides modular functions that make implementation straightforward for practitioners. Find out more in the pre-print [link] and explore the [package](https://baselinenowcast.epinowcast.org/index.html).
+The `baselinenowcast` package provides modular functions that make implementation straightforward for practitioners. Find out more in the [preprint](https://www.medrxiv.org/content/10.1101/2025.08.14.25333653v1) and explore the [package](https://baselinenowcast.epinowcast.org/index.html).
 
 ## What is nowcasting?
 
@@ -40,18 +41,18 @@ The `baselinenowcast` package provides modular functions that make implementatio
 
 ## What can we do about it? 
 
-- A number of nowcasting methods have been developed to handle this exact phenomena (Meyer et al. 2017; Sam Abbott et al. ; McGough et al. 2020; Lopes and Bastos 2025; Gressani et al. 2022), and some have been successfully operationalized, such as in Germany at RKI for COVID-19 and acute respiratory virus incidence (RESPINOW-Hub ; Scholler et al. 2025), at UKHSA for flu, norovirus, and RSV (Mellor et al. 2025), at the U.S. CDC for visual display of trends in ILI (Respiratory Virus Hospitalization Sur...), and in Massachusetts for COVID-19 admissions (Massachusetts syndromic surveillance ...). 
+- A number of nowcasting methods have been developed to handle this exact phenomena @meyer2017spatio; @abbott2021epinowcast; @mcgough2020nowcasting; @lopes2025nowcaster; @gressani2021epilps, and some have been successfully operationalized, such as in Germany at RKI for COVID-19 and acute respiratory virus incidence @respinow_hub_2025; @scholler2025covidScholler, at UKHSA for flu, norovirus, and RSV @mellor2025application, at the U.S. CDC for visual display of trends in ILI @cdc_respnet_2025, and in Massachusetts for COVID-19 admissions @massachusetts_syndromic_surveillance. 
 
-- However, these are still the exception, as is exemplified by the U.S. CDC’s measles dashboard, with routine nowcast correction still lacking widespread public health adoption. 
+- However, these are still the exception, as is exemplified by the U.S. CDC’s measles dashboard @cdc_measles_data_2025, with routine nowcast correction still lacking widespread public health adoption. 
 - We identified two critical gaps in this space: 
 
-1. There isn’t an empirically-driven, relatively straightforward tool catered to the epidemiological context that can fill the (Wolffram et al. 2023) needs of public health practitioners. 
+1. There isn’t an empirically-driven, relatively straightforward tool catered to the epidemiological context that can fill the @Wolffram2023 needs of public health practitioners. 
 
 1. While there are several complex methods for nowcasting, there isn’t a baseline method that can be used as a reference model for other methods to be compared against. 
 
 ## What did we do?
 
-- To address these two gaps, we developed an R package, called baselinenowcast which implements an empirically-driven chain ladder method, based on the approach used by Wolffram et al. (Wolffram et al. 2023) as a reference model in the German COVID Nowcast Hub (Lab et al. ) challenge in 2021 and 2022. 
+- To address these two gaps, we developed an R package, called baselinenowcast which implements an empirically-driven chain ladder method, based on the approach used by Wolffram et al. @Wolffram2023 as a reference model in the German COVID Nowcast Hub @hospitalization_nowcast_hub_2025 challenge in 2021 and 2022. 
 
 - It has a modular function-based interface that enables inspection of the individual components at each step in the nowcasting procedure, which are outlined in the schematic figure.
 
@@ -69,7 +70,7 @@ The `baselinenowcast` package provides modular functions that make implementatio
 
 [!Example of daily same-day nowcasts from the default baselinenowcast specification (purple) and the specification that fits reporting delays to each weekday (light blue) compared to the finally observed data (red) and the data available as of the nowcast date (gray). ](method_specification_comparison_example.png)
 
-- We also compared the performance of multiple baselinenowcast specifications to models used to nowcast norovirus in England from UKHSA, which had been evaluated in a previous study (Mellor et al. 2025), including a previously used baseline method and what is currently used in public health practice. 
+- We also compared the performance of multiple baselinenowcast specifications to models used to nowcast norovirus in England from UKHSA, which had been evaluated in a previous study (@mellor2025application), including a previously used baseline method and what is currently used in public health practice. 
 
 ## Key takeaways:
 
@@ -85,7 +86,7 @@ The `baselinenowcast` package provides modular functions that make implementatio
 
 Find out more:
 
-- Read the preprint[link]
+- Read the [preprint](https://www.medrxiv.org/content/10.1101/2025.08.14.25333653v1).
 
 - Check out the [“Getting started” vignette](https://baselinenowcast.epinowcast.org/articles/baselinenowcast.html) to run through an example using the package’s low-level modular functions, and check out the [`baselinenowcast` GitHub](https://github.com/epinowcast/baselinenowcast).
 
