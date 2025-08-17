@@ -37,7 +37,7 @@ The `baselinenowcast` package provides modular functions that make implementatio
 
 - Here’s an example from the 2024-2025 measles outbreak in the U.S. Cases are indexed by the date of rash onset – which means in real-time cases are getting assigned to previous dates. It takes time from the onset of rash to seek healthcare, through test collection and processing, and finally to reporting the test results, which means the delay between rash onset and when that case appears in the data can be many weeks. On May 15, 2025, we will not be aware of any rash onsets on that day, and only very few, even from the previous week, resulting in the characteristic downward bias we see in this data. At the time, cases were in fact declining, but due to right-truncation, it was difficult to disentangle whether this was a decline or simply missing reports. 
 
-![Screenshot of cases from the U.S. CDC’s website showing the number of national measles cases indexed by rash onset date. Accessed from: https://ww.cdc.gov/measles/data-research/index.html](cdc_measles.png)
+![Screenshot of cases from the U.S. CDC’s website showing the number of national measles cases indexed by rash onset date. Accessed from: https://www.cdc.gov/measles/data-research/index.html](cdc_measles.png)
 
 ## What can we do about it? 
 
