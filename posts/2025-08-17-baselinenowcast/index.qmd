@@ -41,7 +41,7 @@ The `baselinenowcast` package provides modular functions that make implementatio
 
 ## What can we do about it? 
 
-- A number of nowcasting methods have been developed to handle this exact phenomena @meyer2017spatio; @abbott2021epinowcast; @mcgough2020nowcasting; @lopes2025nowcaster; @gressani2021epilps, and some have been successfully operationalized, such as in Germany at RKI for COVID-19 and acute respiratory virus incidence @respinow_hub_2025; @scholler2025covid, at UKHSA for flu, norovirus, and RSV @mellor2025application, at the U.S. CDC for visual display of trends in ILI @cdc_respnet_2025, and in Massachusetts for COVID-19 admissions @massachusetts_syndromic_surveillance. 
+- A number of nowcasting methods have been developed to handle this exact phenomena @meyer2017spatio; @abbott2021epinowcast; @mcgough2020nowcasting; @lopes2025nowcaster; @gressani2021epilps, and some have been successfully operationalized, such as in Germany at RKI for COVID-19 and acute respiratory virus incidence @respinow_hub_2025; @scholler2025covid19, at UKHSA for flu, norovirus, and RSV @mellor2025application, at the U.S. CDC for visual display of trends in ILI @cdc_respnet_2025, and in Massachusetts for COVID-19 admissions @massachusetts_syndromic_surveillance. 
 
 - However, these are still the exception, as is exemplified by the U.S. CDC’s measles dashboard @cdc_measles_data_2025, with routine nowcast correction still lacking widespread public health adoption. 
 - We identified two critical gaps in this space: 
