@@ -37,11 +37,11 @@ The `baselinenowcast` package provides modular functions that make implementatio
 
 - Here’s an example from the 2024-2025 measles outbreak in the U.S. Cases are indexed by the date of rash onset – which means in real-time cases are getting assigned to previous dates. It takes time from the onset of rash to seek healthcare, through test collection and processing, and finally to reporting the test results, which means the delay between rash onset and when that case appears in the data can be many weeks. On May 15, 2025, we will not be aware of any rash onsets on that day, and only very few, even from the previous week, resulting in the characteristic downward bias we see in this data. At the time, cases were in fact declining, but due to right-truncation, it was difficult to disentangle whether this was a decline or simply missing reports. 
 
-![Screenshot of cases from the U.S. CDC’s website showing the number of national measles cases indexed by rash onset date. Accessed from: https://ww.cdc.gov/measles/data-research/index.html](cdc_measles.png)
+![Screenshot of cases from the U.S. CDC’s website showing the number of national measles cases indexed by rash onset date. Accessed from: https://www.cdc.gov/measles/data-research/index.html](cdc_measles.png)
 
 ## What can we do about it? 
 
-- A number of nowcasting methods have been developed to handle this exact phenomena @meyer2017spatio; @abbott2021epinowcast; @mcgough2020nowcasting; @lopes2025nowcaster; @gressani2021epilps, and some have been successfully operationalized, such as in Germany at RKI for COVID-19 and acute respiratory virus incidence @respinow_hub_2025; @scholler2025covid, at UKHSA for flu, norovirus, and RSV @mellor2025application, at the U.S. CDC for visual display of trends in ILI @cdc_respnet_2025, and in Massachusetts for COVID-19 admissions @massachusetts_syndromic_surveillance. 
+- A number of nowcasting methods have been developed to handle this exact phenomena @meyer2017spatio; @abbott2021epinowcast; @mcgough2020nowcasting; @lopes2025nowcaster; @gressani2021epilps, and some have been successfully operationalized, such as in Germany at RKI for COVID-19 and acute respiratory virus incidence @respinow_hub_2025; @scholler2025covid19, at UKHSA for flu, norovirus, and RSV @mellor2025application, at the U.S. CDC for visual display of trends in ILI @cdc_respnet_2025, and in Massachusetts for COVID-19 admissions @massachusetts_syndromic_surveillance. 
 
 - However, these are still the exception, as is exemplified by the U.S. CDC’s measles dashboard @cdc_measles_data_2025, with routine nowcast correction still lacking widespread public health adoption. 
 - We identified two critical gaps in this space: 
