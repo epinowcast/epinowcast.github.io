@@ -52,7 +52,7 @@ The `baselinenowcast` package provides modular functions that make implementatio
 
 ## What did we do?
 
-- To address these two gaps, we developed an R package, called baselinenowcast which implements an empirically-driven chain ladder method, based on the approach used by Wolffram et al. @Wolffram2023 as a reference model in the German COVID Nowcast Hub @hospitalization_nowcast_hub_2025 challenge in 2021 and 2022. 
+- To address these two gaps, we developed an R package, called baselinenowcast which implements an empirically-driven chain ladder method, based on the approach used by @Wolffram2023 as a reference model in the German COVID Nowcast Hub @hospitalization_nowcast_hub_2025 challenge in 2021 and 2022. 
 
 - It has a modular function-based interface that enables inspection of the individual components at each step in the nowcasting procedure, which are outlined in the schematic figure.
 
