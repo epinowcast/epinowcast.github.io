@@ -1,0 +1,43 @@
+[
+  {
+    "listing": "/seminars.html",
+    "items": [
+      "/seminars/2023-05-03-kelly-charniga/index.html",
+      "/seminars/2023-06-07-katelyn-gostic/index.html",
+      "/seminars/2023-07-05-james-hay/index.html",
+      "/seminars/2023-09-06-sang-woo-park/index.html",
+      "/seminars/2023-10-04-billy-quilty/index.html",
+      "/seminars/2023-11-01-samuel-brand/index.html",
+      "/seminars/2023-12-06-rebecca-borchering/index.html",
+      "/seminars/2024-02-14-chris-overton/index.html",
+      "/seminars/2024-03-05-tomas-leon/index.html",
+      "/seminars/2024-05-01-emily-pollock/index.html",
+      "/seminars/2024-06-05-Charlotte-Hammer/index.html",
+      "/seminars/2024-07-03-juliette-unwin/index.html",
+      "/seminars/2024-08-07-kaityln-johnson/index.html",
+      "/seminars/2024-09-04-kris-parag/index.html",
+      "/seminars/2024-11-06-matthew-shin/index.html",
+      "/seminars/2024-12-04-spencer-fox/index.html",
+      "/seminars/2025-02-05-friederike-becker/index.html",
+      "/seminars/2025-03-05-oswaldo-gressani/index.html",
+      "/seminars/2025-04-02-kylie-ainslie/index.html",
+      "/seminars/2025-05-07-dongxuan-chen/index.html",
+      "/seminars/2025-06-04-Alba-Halliday/index.html",
+      "/seminars/2025-07-02-maile-thayer/index.html",
+      "/seminars/2025-08-06-community-show-tell/index.html",
+      "/seminars/2025-09-03-kaitlyn-johnson/index.html",
+      "/seminars/2025-10-01-sandra-montes/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/2025-08-17-baselinenowcast/index.html",
+      "/posts/2024-05-17-best-practices-delays/index.html",
+      "/posts/2024-01-29-estimating-epidemiological-delays/index.html",
+      "/posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html",
+      "/posts/2023-05-08-collab-nowcasting-covid19-germany/index.html",
+      "/posts/2023-05-02-epinowcast-0.1.2-release/index.html"
+    ]
+  }
+]
