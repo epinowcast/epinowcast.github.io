@@ -1,0 +1,31 @@
+---
+title: "Sandra Montes - Optimisation and Dynamic Survival Analysis: Towards a Toolkit for Epidemic Preparedness"
+date: 2025-10-01
+comments: false
+---
+
+On Wednesday October 1st, Sandra Montes will discuss optimisation and dynamic survival analysis approaches for epidemic preparedness.
+
+Mathematical models play a central role in understanding infectious disease transmission and guiding interventions. However, the COVID-19 pandemic highlighted significant limitations: models were often slow to adapt, labour-intensive to extend, and difficult to optimise for policy use. Our research aims to build a toolkit of model components that supports the rapid development of complex epidemiological models, combining mechanistic structure with optimisation and statistical inference to produce models that are both broad (across multiple diseases) and deep (capturing heterogeneities).
+
+As an initial step towards this goal, we explored the feasibility and robustness of automated optimal control methods. We frame outbreak management as an optimal control problem, where interventions are treated as decision variables. By discretising epidemic dynamics in time, we reformulate the problem as a nonlinear programming task that can be solved in the Julia ecosystem, particularly using JuMP.jl optimisation package. Through case studies, we assessed the effort needed to adapt compartmental models, the time required to obtain solutions, and the performance of both open-source and licensed solvers.
+
+Moreover, we are developing a discrete-time formulation of Dynamic Survival Analysis (DSA) to link deterministic epidemic models with line-list data. By treating infection and recovery as survival processes, discrete DSA aligns with daily surveillance data and enables Bayesian inference using the Turing.jl package. We are currently testing its ability to recover key parameters under different infectious period assumptions, comparing a PDE-based model with its Boxcar counterpart.
+
+Together, this work illustrates our progress toward a toolkit that integrates data, models, and optimisation, aiming for faster, broader, and more reproducible epidemic modelling to support transparent and actionable decision-making in future outbreaks.
+
+Sandra is a Research Fellow at the London School of Hygiene and Tropical Medicine, working on the UKRI-funded project: "Building an epidemiological modelling toolkit for epidemic preparedness". She has a Bachelor's and a Master's degree in Biomedical Engineering and completed her PhD in Engineering Mathematics at the University of Bristol in 2023. She has developed a range of mathematical and computational models for biological systems, including synthetic gene regulation networks, organoid morphology, and population network dynamics for sexually transmitted infections.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
