@@ -1,0 +1,25 @@
+---
+title: "Lina Cristancho Fajardo - Accounting for heterogeneity in mosquito exposure is necessary to forecast chikungunya outbreaks in Reunion Island"
+date: 2025-11-05
+comments: false
+---
+
+On Wednesday November 5th, Lina Cristancho Fajardo will discuss her real-time modeling work on the 2025 chikungunya outbreak in Reunion Island.
+
+Heterogeneity in mosquito exposure at a fine spatial scale is a well-documented phenomenon, yet it is often neglected in mathematical models of arbovirus transmission, particularly for real-time forecasting. In this seminar, Lina will present her recent work developing and applying a model that explicitly incorporates fine-scale heterogeneity in mosquito exposure to forecast the 2025 chikungunya outbreak in Reunion Island. Building on an existing dengue transmission framework that includes climate-driven seasonality, she extended the model to represent fine-scale differences in exposure to mosquitoes. She compared this model with versions assuming homogeneous exposure, evaluating their ability to reproduce the 2005-2006 chikungunya outbreak on the island. The model was then used to forecast Reunion Island’s 2025 outbreak in real time and retrospectively assessed for forecasting the 2023 outbreak in Paraguay’s Metropolitana subregion. The results show that accounting for heterogeneity was essential to accurately reproduce and forecast outbreak dynamics. In contrast to the heterogeneity model, homogeneous models either overestimated final attack rates or required unrealistic reductions in the transmission. The heterogeneity model correctly anticipated the 2025 epidemic’s timing (April peak) and magnitude (~400 emergency visits per week) nearly two months in advance, and accurately forecasted epidemic trajectory and final seroprevalence when retrospectively applied to the 2023 Paraguay outbreak. These results highlight the importance of incorporating heterogeneity in mosquito exposure when modelling real-time chikungunya outbreaks. The approach offers a promising framework for forecasting future chikungunya and other arbovirus outbreaks.
+
+Lina Cristancho is a postdoctoral researcher in the Mathematical Modelling of Infectious Diseases Unit at the Institut Pasteur in Paris, France, led by Prof. Simon Cauchemez. She completed her PhD in Applied Mathematics at the University of Paris-Saclay, where she developed models and optimization frameworks for decision-making in the control of infectious diseases spreading through animal metapopulation networks. Her recent work includes the analysis of serosurveys to study SARS-CoV-2 household transmission in Africa, and the development of models to forecast the 2025 chikungunya outbreak in Reunion Island.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
