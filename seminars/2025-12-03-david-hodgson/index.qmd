@@ -1,0 +1,25 @@
+---
+title: "David Hodgson"
+date: 2025-12-03
+comments: false
+---
+
+On Wednesday, December 3rd, David Hodgson will discuss tools for serological inference.
+
+Serological data provide insights into infectious disease transmission beyond clinical surveillance, revealing asymptomatic infections and population immunity levels. However, analysing serological data effectively requires specialised statistical methods that are often challenging for researchers and public health practitioners to implement. seroanalytics (seroanalytics.org) is a suite of open-source R tools designed to make complex serological inference accessible to the broader community. The platform provides integrated tools for visualising and simulating serological data and performing inference on both cross-sectional and longitudinal datasets. Cross-sectional tools estimate seroprevalence and force of infection while accounting for imperfect test characteristics. Longitudinal tools implement Bayesian methods to reconstruct infection histories and characterise antibody kinetics from repeated measurements, approaches previously applied to SARS-CoV-2 transmission in West Africa and RSV immunity studies. Many tools feature an interactive interface allowing users to upload data, specify models, and explore results without coding. The platform emphasises reproducibility through extensive documentation and comprehensive vignettes. While core statistical methods were developed through traditional research workflows, generative AI has proven valuable for ongoing maintenance, documentation generation, and interface development. This integrated approach has enabled efficient development of research-grade tools with minimal maintenance overhead, accelerating translation of methodological advances into practical applications for outbreak response and cohort studies.
+
+Dr David Hodgson is a mathematical epidemiologist with a PhD from University College London, where he developed transmission models and cost-effectiveness analyses for RSV interventions that have informed national immunisation policy. His current research at Charité — Universitätsmedizin Berlin, focuses on Bayesian inference methods for serological and immunological data, particularly developing flexible MCMC samplers to reconstruct infection histories and antibody dynamics from longitudinal studies. He specialises in mechanistic modelling of B cell responses and immune memory, linking vaccination to protection across populations and pathogens. He also contributes to open science through the development of interactive dashboards and R packages for seroepidemiological research.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
