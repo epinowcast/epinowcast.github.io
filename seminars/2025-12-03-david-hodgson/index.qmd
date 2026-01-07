@@ -1,12 +1,12 @@
 ---
 title: "David Hodgson"
-date: 2025-12-03
+date: 2026-01-14
 comments: false
 ---
 
-**This seminar has been cancelled due to the speaker's illness.**
+**Resheduled to due to speaker illness and availability.**
 
-On Wednesday, December 3rd, David Hodgson will discuss tools for serological inference.
+On Wednesday, Janurary 14th, David Hodgson will discuss tools for serological inference.
 
 Serological data provide insights into infectious disease transmission beyond clinical surveillance, revealing asymptomatic infections and population immunity levels. However, analysing serological data effectively requires specialised statistical methods that are often challenging for researchers and public health practitioners to implement. seroanalytics (seroanalytics.org) is a suite of open-source R tools designed to make complex serological inference accessible to the broader community. The platform provides integrated tools for visualising and simulating serological data and performing inference on both cross-sectional and longitudinal datasets. Cross-sectional tools estimate seroprevalence and force of infection while accounting for imperfect test characteristics. Longitudinal tools implement Bayesian methods to reconstruct infection histories and characterise antibody kinetics from repeated measurements, approaches previously applied to SARS-CoV-2 transmission in West Africa and RSV immunity studies. Many tools feature an interactive interface allowing users to upload data, specify models, and explore results without coding. The platform emphasises reproducibility through extensive documentation and comprehensive vignettes. While core statistical methods were developed through traditional research workflows, generative AI has proven valuable for ongoing maintenance, documentation generation, and interface development. This integrated approach has enabled efficient development of research-grade tools with minimal maintenance overhead, accelerating translation of methodological advances into practical applications for outbreak response and cohort studies.
 
