@@ -2,11 +2,11 @@
 title: "Overconfident $R_t$ estimates from the Poisson renewal equation method"
 author: 
   - name: Barbora Němcová
-    affiliation: Karlsruhe Insitute of Technology
+    affiliation: Karlsruhe Institute of Technology
     orcid: 0009-0004-7565-4145
   - name: Johannes Bracher
     url: https://jbracher.github.io/
-    affiliation: Karlsruhe Insitute of Technology
+    affiliation: Karlsruhe Institute of Technology
     orcid: 0000-0002-3777-1410
 date: 2026-01-21
 image: composite_plot.png
