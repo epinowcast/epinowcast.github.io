@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Epinowcast</title>
+<link>https://epinowcast.org/seminars.html</link>
+<atom:link href="https://epinowcast.org/seminars.xml" rel="self" type="application/rss+xml"/>
+<description>Epinowcast community site</description>
+<image>
+<url>https://epinowcast.org/images/logo.png</url>
+<title>Epinowcast</title>
+<link>https://epinowcast.org/seminars.html</link>
+<height>167</height>
+<width>144</width>
+</image>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Wed, 04 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Nina Schmid - Universal differential equations for epidemiology: Current state and open problems</title>
+  <link>https://epinowcast.org/seminars/2026-03-04-nina-schmid/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday March 4th, Nina Schmid will discuss universal differential equations for epidemiology.</p>
+<p>Universal Differential Equations (UDEs) augment mechanistic differential-equation models with neural networks to represent unknown processes, balancing structural interpretability with data-adaptive dynamics. However, UDEs face challenges in efficient and reliable training due to stiff dynamics and noisy, sparse data, as well as in ensuring the interpretability of the mechanistic model parameters. We investigate these challenges and evaluate UDE performance on biologically motivated benchmarks. Our results demonstrate the versatility of UDEs and show that optimisation stability and parameter interpretability are improved by combining key aspects of each methodological field, such as regularisation, multi-start methods, and hyperparameter optimisation. In the second part, we build on these results and develop a UDE framework for wastewater-based epidemiology, where translating viral-load measurements into actionable insights remains challenging. We formulate a susceptible-exposed-infectious-recovered (SEIR) UDE to link wastewater viral loads to case counts while learning time-varying parameters via neural networks, enabling non-stationary drivers to be captured without abandoning epidemiological constraints. We assess the method using newly collected SARS-CoV-2 data for Bonn, Germany, as well as published data for five cities in Rhineland-Palatinate, Germany. The proposed approach produces realistic, city-specific out-of-sample projections over a test horizon of up to 50 weeks. Accordingly, it facilitates scalable interpretation and exploitation of wastewater data for monitoring infectious diseases.</p>
+<p>Nina Schmid is a PhD candidate at the LIMES Institute, University of Bonn, working in Prof.&nbsp;Hasenauer’s group. She studied mathematics (M.Sc.) at the Technical University of Munich with a focus on statistics and machine learning. Her main interests lie in hybrid modelling approaches to combine the benefits of mechanistic modelling and deep learning.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2026-03-04-nina-schmid/</guid>
+  <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Community Show and Tell - Recent work and ideas</title>
+  <link>https://epinowcast.org/seminars/2026-02-04-community-show-tell/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 4th of February at 3pm UK time, we’re hosting a casual community show and tell session instead of our regular seminar format.</p>
+<p>This will be a relaxed discussion where community members can share what they’ve been working on recently, present new ideas, and demonstrate ongoing projects. Feel free to bring a few slides if you wish, but this is entirely optional.</p>
+<section id="example-topics-for-discussion" class="level2">
+<h2 class="anchored" data-anchor-id="example-topics-for-discussion">Example topics for discussion</h2>
+<p>Kelly Charniga will be sharing updates about her SARS-CoV-2 transmission advantage project.</p>
+</section>
+<section id="format" class="level2">
+<h2 class="anchored" data-anchor-id="format">Format</h2>
+<p>This session is designed to be interactive and collaborative. All community members are encouraged to share their recent work, interesting problems they’re tackling, or new methodological ideas. The focus is on fostering discussion and knowledge sharing across the community.</p>
+<p>A recording of this session will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also contribute topics or ask questions ahead of time and asynchronously there.</p>
+</section>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2026-02-04-community-show-tell/</guid>
+  <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>David Hodgson</title>
+  <link>https://epinowcast.org/seminars/2025-12-03-david-hodgson/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><strong>Resheduled to due to speaker illness and availability.</strong></p>
+<p>On Wednesday, Janurary 14th, David Hodgson will discuss tools for serological inference.</p>
+<p>Serological data provide insights into infectious disease transmission beyond clinical surveillance, revealing asymptomatic infections and population immunity levels. However, analysing serological data effectively requires specialised statistical methods that are often challenging for researchers and public health practitioners to implement. seroanalytics (seroanalytics.org) is a suite of open-source R tools designed to make complex serological inference accessible to the broader community. The platform provides integrated tools for visualising and simulating serological data and performing inference on both cross-sectional and longitudinal datasets. Cross-sectional tools estimate seroprevalence and force of infection while accounting for imperfect test characteristics. Longitudinal tools implement Bayesian methods to reconstruct infection histories and characterise antibody kinetics from repeated measurements, approaches previously applied to SARS-CoV-2 transmission in West Africa and RSV immunity studies. Many tools feature an interactive interface allowing users to upload data, specify models, and explore results without coding. The platform emphasises reproducibility through extensive documentation and comprehensive vignettes. While core statistical methods were developed through traditional research workflows, generative AI has proven valuable for ongoing maintenance, documentation generation, and interface development. This integrated approach has enabled efficient development of research-grade tools with minimal maintenance overhead, accelerating translation of methodological advances into practical applications for outbreak response and cohort studies.</p>
+<p>Dr David Hodgson is a mathematical epidemiologist with a PhD from University College London, where he developed transmission models and cost-effectiveness analyses for RSV interventions that have informed national immunisation policy. His current research at Charité — Universitätsmedizin Berlin, focuses on Bayesian inference methods for serological and immunological data, particularly developing flexible MCMC samplers to reconstruct infection histories and antibody dynamics from longitudinal studies. He specialises in mechanistic modelling of B cell responses and immune memory, linking vaccination to protection across populations and pathogens. He also contributes to open science through the development of interactive dashboards and R packages for seroepidemiological research.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2025-12-03-david-hodgson/</guid>
+  <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Lina Cristancho Fajardo - Accounting for heterogeneity in mosquito exposure is necessary to forecast chikungunya outbreaks in Reunion Island</title>
+  <link>https://epinowcast.org/seminars/2025-11-05-lina-cristancho/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday November 5th, Lina Cristancho Fajardo will discuss her real-time modeling work on the 2025 chikungunya outbreak in Reunion Island.</p>
+<p>Heterogeneity in mosquito exposure at a fine spatial scale is a well-documented phenomenon, yet it is often neglected in mathematical models of arbovirus transmission, particularly for real-time forecasting. In this seminar, Lina will present her recent work developing and applying a model that explicitly incorporates fine-scale heterogeneity in mosquito exposure to forecast the 2025 chikungunya outbreak in Reunion Island. Building on an existing dengue transmission framework that includes climate-driven seasonality, she extended the model to represent fine-scale differences in exposure to mosquitoes. She compared this model with versions assuming homogeneous exposure, evaluating their ability to reproduce the 2005-2006 chikungunya outbreak on the island. The model was then used to forecast Reunion Island’s 2025 outbreak in real time and retrospectively assessed for forecasting the 2023 outbreak in Paraguay’s Metropolitana subregion. The results show that accounting for heterogeneity was essential to accurately reproduce and forecast outbreak dynamics. In contrast to the heterogeneity model, homogeneous models either overestimated final attack rates or required unrealistic reductions in the transmission. The heterogeneity model correctly anticipated the 2025 epidemic’s timing (April peak) and magnitude (~400 emergency visits per week) nearly two months in advance, and accurately forecasted epidemic trajectory and final seroprevalence when retrospectively applied to the 2023 Paraguay outbreak. These results highlight the importance of incorporating heterogeneity in mosquito exposure when modelling real-time chikungunya outbreaks. The approach offers a promising framework for forecasting future chikungunya and other arbovirus outbreaks.</p>
+<p>Lina Cristancho is a postdoctoral researcher in the Mathematical Modelling of Infectious Diseases Unit at the Institut Pasteur in Paris, France, led by Prof.&nbsp;Simon Cauchemez. She completed her PhD in Applied Mathematics at the University of Paris-Saclay, where she developed models and optimization frameworks for decision-making in the control of infectious diseases spreading through animal metapopulation networks. Her recent work includes the analysis of serosurveys to study SARS-CoV-2 household transmission in Africa, and the development of models to forecast the 2025 chikungunya outbreak in Reunion Island.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2025-11-05-lina-cristancho/</guid>
+  <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Sandra Montes - Optimisation and Dynamic Survival Analysis: Towards a Toolkit for Epidemic Preparedness</title>
+  <link>https://epinowcast.org/seminars/2025-10-01-sandra-montes/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday October 1st, Sandra Montes will discuss optimisation and dynamic survival analysis approaches for epidemic preparedness.</p>
+<p>Mathematical models play a central role in understanding infectious disease transmission and guiding interventions. However, the COVID-19 pandemic highlighted significant limitations: models were often slow to adapt, labour-intensive to extend, and difficult to optimise for policy use. Our research aims to build a toolkit of model components that supports the rapid development of complex epidemiological models, combining mechanistic structure with optimisation and statistical inference to produce models that are both broad (across multiple diseases) and deep (capturing heterogeneities).</p>
+<p>As an initial step towards this goal, we explored the feasibility and robustness of automated optimal control methods. We frame outbreak management as an optimal control problem, where interventions are treated as decision variables. By discretising epidemic dynamics in time, we reformulate the problem as a nonlinear programming task that can be solved in the Julia ecosystem, particularly using JuMP.jl optimisation package. Through case studies, we assessed the effort needed to adapt compartmental models, the time required to obtain solutions, and the performance of both open-source and licensed solvers.</p>
+<p>Moreover, we are developing a discrete-time formulation of Dynamic Survival Analysis (DSA) to link deterministic epidemic models with line-list data. By treating infection and recovery as survival processes, discrete DSA aligns with daily surveillance data and enables Bayesian inference using the Turing.jl package. We are currently testing its ability to recover key parameters under different infectious period assumptions, comparing a PDE-based model with its Boxcar counterpart.</p>
+<p>Together, this work illustrates our progress toward a toolkit that integrates data, models, and optimisation, aiming for faster, broader, and more reproducible epidemic modelling to support transparent and actionable decision-making in future outbreaks.</p>
+<p>Sandra is a Research Fellow at the London School of Hygiene and Tropical Medicine, working on the UKRI-funded project: “Building an epidemiological modelling toolkit for epidemic preparedness”. She has a Bachelor’s and a Master’s degree in Biomedical Engineering and completed her PhD in Engineering Mathematics at the University of Bristol in 2023. She has developed a range of mathematical and computational models for biological systems, including synthetic gene regulation networks, organoid morphology, and population network dynamics for sexually transmitted infections.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2025-10-01-sandra-montes/</guid>
+  <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Kaitlyn Johnson - Baseline nowcasting methods for handling delays in epidemiological data</title>
+  <link>https://epinowcast.org/seminars/2025-09-03-kaitlyn-johnson/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday September 3rd, Kaitlyn Johnson will discuss baseline methods for nowcasting and its applications. This work has recently been posted as a <a href="https://www.medrxiv.org/content/10.1101/2025.08.14.25333653v1">pre-print</a>.</p>
+<p>Reporting delays in public health surveillance systems can create a misleading impression of declining trends in recent data. While a number of “nowcasting” methods have been developed to correct this bias, widespread adoption in public health practice has yet to be realized. Currently, there is no simple method to perform nowcasting that both meets the needs of public health practice and can be used as a benchmark for further methodological advancement. In this work, we present a family of baseline nowcasting methods, and an accompanying software package, <a href="https://github.com/epinowcast/baselinenowcast">baselinenowcast</a>, designed specifically to address these two gaps. We evaluate the performance of the default method against other methods used in previous studies and assess the performance of different method specifications. Our findings indicate that our baseline methods improve performance over unadjusted data or more ad-hoc baseline nowcasting approaches, provide an interpretable and accessible nowcasting solution for public health practice, and are useful as a standard benchmark for more advanced methods.</p>
+<p>Kaitlyn is currently an Assistant Professor at the London School of Hygiene and Tropical Medicine working in Sebastian Funk’s Epiforecasts group. Prior to joining, she worked as a data scientist at the U.S. CDC’s Center for Forecasting and Outbreak Analytics. Her broader interests include: real-time outbreak analysis, open source tool development, wastewater-based epidemiology, partial pooling/hierarchical modeling, integration of complex and disparate data sources.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2025-09-03-kaitlyn-johnson/</guid>
+  <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Community Show and Tell - Recent work and ideas</title>
+  <link>https://epinowcast.org/seminars/2025-08-06-community-show-tell/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 6th of August at 3pm UK time, we’re hosting a casual community show and tell session instead of our regular seminar format.</p>
+<p>This will be a relaxed discussion where community members can share what they’ve been working on recently, present new ideas, and demonstrate ongoing projects. Feel free to bring a few slides if you wish, but this is entirely optional.</p>
+<section id="example-topics-for-discussion" class="level2">
+<h2 class="anchored" data-anchor-id="example-topics-for-discussion">Example topics for discussion</h2>
+<p>Sam Abbott will be sharing some recent ideas he’s been exploring:</p>
+<p><strong>CensoredDistributions.jl</strong> - A Julia package developed during the 2024 Epistorm Rt collaborathon for handling censored distributions in outbreak data. The package addresses three types of censoring common in epidemiological data: primary event censoring, interval censoring, and double interval censoring. It integrates with Distributions.jl and Turing.jl, using Julia’s multiple dispatch for flexible distribution handling.</p>
+<p><strong>Baseball stats, model cards, and forecasting performance</strong> - An exploration of model evaluation frameworks and ensemble modelling approaches, examining how to distinguish individual model value from ensemble value and addressing challenges in ensemble model weighting.</p>
+<p><strong>A basket of baselines</strong> - A concept for creating standardised baseline forecast models from different perspectives (time series expert, infectious disease specialist, etc.) to serve as reference points for understanding and comparing more complex forecasting approaches.</p>
+</section>
+<section id="format" class="level2">
+<h2 class="anchored" data-anchor-id="format">Format</h2>
+<p>This session is designed to be interactive and collaborative. All community members are encouraged to share their recent work, interesting problems they’re tackling, or new methodological ideas. The focus is on fostering discussion and knowledge sharing across the community.</p>
+<p>A recording of this session will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also contribute topics or ask questions ahead of time and asynchronously there.</p>
+</section>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2025-08-06-community-show-tell/</guid>
+  <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Maile Thayer - Real-time modeling during the 2024-2025 Dengue Epidemic in Puerto Rico: Applications and insights</title>
+  <link>https://epinowcast.org/seminars/2025-07-02-maile-thayer/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 2nd of July at 3pm UK time, Maile Thayer will talk about her work on dengue.</p>
+<p>The past two years have seen unprecedented dengue virus transmission, with over 14 million cases reported globally in 2024. In March of 2024, Puerto Rico declared a public health emergency due to escalating dengue activity. This then prompted the Centers for Disease Control and Prevention (CDC) to activate a dengue emergency response and issue a Health Alert Network advisory. As the modeling task force for the CDC’s 2024-2025 Dengue Response, Maile’s team developed and deployed a suite of real-time modeling tools to support public health decision-making throughout the epidemic in Puerto Rico. These modeling tools included dengue epidemic alert thresholds, nowcasting, time-varying reproductive number estimation, and hospital capacity models. These tools were regularly updated and disseminated to partners to inform situational awareness. This presentation will highlight the role of modeling during the dengue response in Puerto Rico, key methodological approaches used, and lessons learned for future outbreak preparedness and response.</p>
+<p>Maile B. Thayer, PhD, MS is the Team Lead for the Epidemic Analytics Team at the Dengue Branch at the Centers for Disease Control and Prevention (CDC) in San Juan, Puerto Rico. Her work at the Dengue Branch focuses on developing and evaluating mathematical and statistical models to improve surveillance, early warning, prevention, and control of arboviral diseases and to identify and characterize underlying drivers of arboviral disease epidemics and spread. Prior to the CDC, Maile earned her Masters in Biostatistics at Harvard T. H. Chan School of Public Health in 2017 and her PhD in Epidemiology of Microbial Diseases at Yale University in 2021. Some of her previous research focused on mathematical models for typhoid and other diseases, characterizing disease dynamics and evaluating the cost-effectiveness of interventions.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2025-07-02-maile-thayer/</guid>
+  <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Alba Halliday - Modelling diseases with delayed reporting and nested structures using a hierarchical framework</title>
+  <link>https://epinowcast.org/seminars/2025-06-04-Alba-Halliday/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 4th of June at 3pm UK time, Alba Halliday will talk about their work on modeling nested data with a reporting delay.</p>
+<p>Alba will present a hierarchical Bayesian framework for modelling nested data with a reporting delay in disease surveillance systems. This work was developed in collaboration with the Oswaldo Cruz Foundation (Fiocruz) in Brazil, which supports the Ministry of Health in monitoring cases of severe acute respiratory illness (SARI) and COVID-19. The approach is motivated by the operational warning system currently used for SARI surveillance, where forecasts for total SARI cases and those testing positive for SARS-CoV-2 are produced independently. To improve nowcasting predictions and support decision-making, they propose a joint modelling framework that accounts for the nested structure of the data. To facilitate adoption, they developed an accompanying R package, NimbleCast, which enables streamlined implementation of the framework within existing workflows.</p>
+<p>Alba Halliday is a Research Associate at the MRC Centre for Global Infectious Disease Analysis at Imperial College London. They completed their PhD in Statistics at the University of Glasgow. Their research focuses on improving the surveillance of and response to public health threats, and on making statistical methods more accessible through open-source tools as well as collaborative partnerships.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2025-06-04-Alba-Halliday/</guid>
+  <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Dongxuan Chen - From generation interval to superspreading potential, from population level estimates to setting-specific estimates, in the case of COVID-19</title>
+  <link>https://epinowcast.org/seminars/2025-05-07-dongxuan-chen/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 7th of May at 3pm UK time, Dongxuan Chen will talk about her work on COVID-19.</p>
+<p>This seminar consists of two parts, the first part will show how to obtain temporal estimates of the generation interval at population level, the second part will show how realized generation interval and superspreading potential might differ across settings. First, as Park et al (Park et al., 2021 PNAS) illustrated that sampling direction bias during an ongoing epidemic would cause systematic bias in the forward serial interval, it is not recommended to directly use the serial interval as a proxy for the generation interval, especially for temporal estimates. Therefore, Chen et al (Chen et al., 2022 Nat Commun) developed an inferential framework based on Park et al’s theory to obtain the time-varying forward generation interval that corrects for the sampling direction bias, from contact tracing data with both symptom onset and exposure window available. Second, a detailed investigation was conducted to examine the potential differences in realized generation interval and superspreading potential (as measured by the degree of overdispersion in cluster size distribution) in various transmission settings in Hong Kong during the COVID-19 pandemic before the Omicron wave. As contact tracing for clustered transmission events cannot clearly indicate the individual-level transmission chains, a mixture model was used to infer the generation interval, and a negative binomial model that considered underreporting scenario was used to estimate the mean and degree of overdispersion of the cluster size distribution. Furthermore, this study explored how different stringency of the control measures could have impact on the realized generation interval and final cluster size observed.</p>
+<p>Dr.&nbsp;Dongxuan Chen obtained her PhD degree in infectious disease modelling from the University of Hong Kong, with thesis entitled “Investigating changes in COVID-19 epidemiological parameters from different perspectives” supervised by Prof.&nbsp;Ben Cowling. Before joining HKU, she completed her master’s degree in statistical science for the life and behavioral sciences from Leiden University, the Netherlands. She did her master’s internship at the Dutch National Institute for Public Health and the Environment (RIVM) in early 2020, supervised by Prof.&nbsp;Jacco Wallinga, and contributed to some of the early COVID-19 studies.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2025-05-07-dongxuan-chen/</guid>
+  <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Kylie Ainslie - Scabies, who cares?</title>
+  <link>https://epinowcast.org/seminars/2025-04-02-kylie-ainslie/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 2nd of April at 3pm UK time, Kylie Ainslie will talk about her work on scabies.</p>
+<p>Scabies is a contagious skin disease caused by the infestation of the skin by the Sarcopes scabiei mite, resulting in an itchy rash. Scabies affects over 400 million people worldwide each year. A rise in scabies cases has been observed in recent years throughout Western Europe. Despite the high prevalence of scabies in parts of the world and increasing scabies cases across Europe, some key epidemiological characteristics describing the spread of scabies infections have not been described, such as the serial interval – the time between symptom onset in an infector and symptom onset in an infectee – and the reproduction number – the average number of people an infected person will go on to infect. Accurate estimates of the epidemiological characteristics describing the spread of scabies are essential for designing effective control strategies to curb disease transmission. In this talk, Kylie will present work on estimating these key epidemiological characteristics of scabies using various mathematical methods and data sources. She will also introduce mitey, an R package she developed that enables researchers and public health professionals to apply these methods for their own analyses. This open-source tool facilitates reproducibility and allows users to estimate key parameters such as the serial interval and reproduction number using their own datasets. Finally, she will discuss the policy implications of these findings and how they can inform the design of strategies to prevent future outbreaks.</p>
+<p>Dr.&nbsp;Kylie Ainslie is an infectious disease modeller at the Dutch National Institute of Public Health and the Environment (RIVM) and an Honorary Assistant Professor at the University of Hong Kong School of Public Health. Her work at RIVM focuses on using mathematical models of infectious disease transmission to determine the impact of vaccination strategies on disease spread, and the development of statistical methods to determine how vaccine-induced protection wanes over time. At the University of Hong Kong, her work focuses on determining the real-world protection provided by vaccines against respiratory diseases, such as COVID-19 and influenza. Kylie strongly believes in open-source and reproducible research and loves coding in R.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2025-04-02-kylie-ainslie/</guid>
+  <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Oswaldo Gressani - The EpiLPS ecosystem</title>
+  <link>https://epinowcast.org/seminars/2025-03-05-oswaldo-gressani/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 5th of March at 3pm UK time, Oswaldo Gressani will discuss the EpiLPS ecosystem.</p>
+<p>Recent epidemics have underlined the crucial role of statistical modeling. Statistical models form the core backbone that is used to compute estimates of key epidemiological quantities from infectious disease data. Having statistical methods that deliver state-of-the art analytical tools is not only important for understanding the transmission dynamics of a pathogen, but also for orienting effective public health strategies to mitigate disease spreading and hence for future pandemic preparedness. Laplacian-P-splines (LPS) provide a fast and flexible Bayesian inference methodology anchored around Laplace approximations and P-splines. The LPS methodology has recently been extended to infectious disease models in the EpiLPS ecosystem (https://epilps.com/) for estimation of various epidemic metrics such as the time-varying reproduction number, the incubation period and also for nowcasting. In this seminar, Dr.&nbsp;Gressani will highlight the role of P-splines for modeling smooth epidemic model components and illustrate the capability of EpiLPS to carry out inference through a completely sampling-free scheme that involves a negligible computational cost as compared to classic Markov chain Monte Carlo techniques. Moreover, he will emphasize how the associated R package can be used for analysis of real epidemic data. Finally, he will discuss current and future extensions of the EpiLPS toolbox.</p>
+<p>Dr.&nbsp;Gressani is currently working as a postdoctoral researcher at the Data Science Institute (DSI) at Hasselt University in Belgium. His work focuses on extensions of EpiLPS to other key epidemiological characteristics and in particular to epidemiological delay distributions. He recently obtained a FWO (Fonds Wetenschappelijk onderzoek) outgoing mobility grant for a short research stay at Hong Kong University to work on EpiLPS extensions and related topics. Previously, he obtained his PhD in Statistics in 2020 from the University of Louvain under the supervision of Prof.&nbsp;Philippe Lamber. Apart from EpiLPS, Dr.&nbsp;Gressani has research interests in computational methods in statistics and theoretical contributions to Bayesian methods. He loves coding in general (R, C++, html, Markdown) and developed several R projects/packages which are available on his personal webpage (https://greoswa.com/CV.html).</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2025-03-05-oswaldo-gressani/</guid>
+  <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Friederike Becker - The Influence of Ensemble Size and Composition on Performance of Combined Real-time COVID-19 Forecasts</title>
+  <link>https://epinowcast.org/seminars/2025-02-05-friederike-becker/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 5th of February at 3pm UK time, Friederike (Rike) Becker will discuss the influence of ensemble size and composition on performance of combined real-time COVID-19 forecasts.</p>
+<p>During infectious disease outbreaks, short-term forecasts can play an important role for both decision makers and the public. While previous research has shown that combining individual forecasts into an ensemble improves accuracy and consistency, practical guidance for organisers of multi-model prediction platforms on how to construct an ensemble has been scarce. In particular, it is unclear how ensemble performance relates to the size of the underlying model base, a relevant question when relying on voluntary contributions from modelling teams that face competing priorities. Furthermore, the exact composition of an ensemble forecast may influence its performance. Centrally, such a method can either include all models equally or, alternatively, discriminate based on models’ merit or other non-performance-related characteristics. Using data from the European Covid-19 Forecast Hub, we investigate these questions, with the aim of offering practical guidance for organisers of multi-model prediction platforms during infectious disease outbreaks. We found that including more models both improved and stabilized aggregate ensemble performance, while selecting for better component models did not yield any particular advantage. Diversity among models, whether measured numerically or qualitatively, did not have a clear impact on ensemble performance. These results suggest that for those soliciting contributions to collaborative ensembles there are more obvious gains to be made from increasing participation to moderate levels than from optimising component models.</p>
+<p>Friederike (Rike) Becker is a PhD student at the Karlsruhe Institute of Technology (KIT). Previously, she has obtained a MSc in Applied Statistics at the University of Göttingen and has written her masters thesis under the supervision of Nikos Bosse at LSHTM. Her current research lies at the intersection of statistics and economics, with a particular research interest in forecasting.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2025-02-05-friederike-becker/</guid>
+  <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Spencer Fox - Optimizing disease outbreak forecast ensembles and the use of microHubs</title>
+  <link>https://epinowcast.org/seminars/2024-12-04-spencer-fox/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 8th of January at 3pm UK time, Dr Spencer Fox will discuss ensemble models for infectious diseases and microHubs.</p>
+<p>On the basis of historical influenza and COVID-19 forecasts, we found that more than 3 forecast models are needed to ensure robust ensemble accuracy. Additional models can improve ensemble performance, but with diminishing accuracy returns. This understanding will assist with the design of current and future collaborative infectious disease forecasting efforts. Building on this work, we are pioneering the use of “microHubs” that mimic larger collaborative forecast hubs using a minimal subset of robust forecasting models, dramatically lowering the required resources for forecasting and allowing for organizations to mirror hubs using privately held data. I will discuss our pilot project from the past year for influenza, COVID-19, and RSV healthcare forecasts for the Paraguay Ministerio de Salud Pública y Bienestar Social in collaboration with the CDC, Council for State and Territorial Epidemiologists, and the Pan American Health Organization.</p>
+<p>Spencer J. Fox is an Assistant Professor in the department of Epidemiology and Biostatistics and the Institute of Bioinformatics at the University of Georgia. Spencer obtained a BSc in Biology from Rose-Hulman Institute of Technology and a PhD from the Ecology, Evolution, and Behavior program at The University of Texas at Austin. His research focuses on integrating biological, epidemiological, and statistical models to understand and predict outbreak dynamics. Prior to joining the University of Georgia he was the Associate Director of the UT COVID-19 Modeling Consortium.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2024-12-04-spencer-fox/</guid>
+  <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Matthew Shin - Quantifying regularity of COVID-19 epidemic waves in France to assess predictability of future waves and improve forecasting</title>
+  <link>https://epinowcast.org/seminars/2024-11-06-matthew-shin/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 6th of November at 3pm UK time, Dr Matthew Shin will discuss quantifying regularity of COVID-19 epidemic waves in France to assess predictability of future waves and improve forecasting.</p>
+<p>Forecasting healthcare needs during the first two years of the COVID-19 pandemic was difficult because case dynamics changed rapidly with the implementation and relaxation of non-pharmaceutical measures, behavioural changes, vaccination and emerging variants, limiting forecasting horizon to a couple of weeks or even days. As COVID-19 moved to endemicity, we hypothesised that the predictability of future COVID-19 epidemics would depend on the regularity of dynamics in successive epidemic waves. We aimed to model and compare epidemic growth rate dynamics in the waves observed since March 2022 (after the dominance of the Omicron variant) and to use this model to improve COVID-19 forecast horizons by incorporating information from completed waves in the prediction. We propose a 4-phase, piecewise-sinusoidal model that approximates the growth rate trajectory of any individual wave of COVID-19-related emergency room (ER) visits in metropolitan France and use the parameters of past approximations to forecast future ER visits. We first estimate the smoothed trendline of ER visits and its associated growth rate curve from the raw time series. Next, we use Markov chain Monte Carlo (MCMC) to fit our model to the growth rate series for L − 1 past waves. Finally, we let these historical model estimates inform the prior distribution of the subsequent, L-th wave against the uncertain real-time growth rate data to compute the ongoing wave’s posterior distribution. As our proposed model directly corresponds to the geometry of the trendline for one complete wave, we can easily compute statistics such as the timing and magnitude of the peak. We evaluated our method on two Omicron waves beginning in September (L = 3) and November 2022 (L = 4): The median forecasted timing error was 6.3 ± 6.5 days and 5.7 ± 5.0 days of the true peak date up to the dates of respective peaks. The median forecasted magnitude error was 16 ± 34% and 18 ± 23% from the true peak magnitude up to the dates of respective peaks. Our method could be used to analyse other infectious diseases with semi-regular growth rate patterns such as influenza. For such diseases, characterising the regularity in past waves may be essential for improving the forecasts of epidemic waves.</p>
+<p>Matthew Shin is a PhD student at Sorbonne Université, under the supervision of Prof Simon Cauchemez and Dr Juliette Paireau at the Mathematical Modelling of Infectious Diseases Unit at Institut Pasteur in Paris, France. Prior to starting his thesis, he studied applied mathematics at the University of Chicago and worked as a computational scientist at a biomedical start-up. His research interests focus on generalisable mathematical and statistical methods to analyse real-world spatiotemporal data, especially those that fall under the umbrella of ‘scientific machine learning’ (SciML).</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2024-11-06-matthew-shin/</guid>
+  <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Kris Parag - Closing the feedback loop between infectious disease dynamics and real-time interventions</title>
+  <link>https://epinowcast.org/seminars/2024-09-04-kris-parag/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 4th of September at 3pm UK time, Dr Kris Parag will discuss how feedback control theory can improve both the understanding and suppression of epidemics in real time.</p>
+<p>Reproduction numbers, which define the magnitude at which infections multiply, are conventionally used to assess how difficult it is to control an infectious disease. By reframing the multiplicative process of transmission as a positive feedback loop, Dr.&nbsp;Parag will demonstrate that this approach is idealistic and propose two new controllability margins that better reflect the effort needed to control an epidemic. The second part of the talk will be about interventions. Deciding when to impose or relax a non-pharmaceutical intervention is an enduring problem that is aggravated by the limitations and uncertainties innate to practical surveillance data. By recognising the negative feedback loop between a chosen intervention and future (noisy) disease dynamics, Dr.&nbsp;Parag will present an optimal control algorithm to balance the risks of inaction with the costs of intervention.</p>
+<p>Dr.&nbsp;Parag is an advanced research fellow at Imperial College London and honorary lecturer at the University of Bristol. He leads the EpiEng group, which aims to improve understanding of Epidemiological processes by adapting concepts from Engineering disciplines. This merges his training in control (PhD, Cambridge) and aerospace (MEng, Sheffield) engineering with his experience across phylodynamics (postdoc, Oxford) and epidemiology (research fellow, Imperial). The current goal of his group is to leverage feedback control methodology to design more effective real-time strategies for outbreak surveillance and suppression.</p>
+<p>To read more about his work, see <a href="https://www.medrxiv.org/content/10.1101/2023.10.10.23296471v2">this paper</a> and <a href="https://www.medrxiv.org/content/10.1101/2024.05.24.24307878v2">this preprint</a>.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2024-09-04-kris-parag/</guid>
+  <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Kaitlyn Johnson - Wastewater modeling to forecast hospital admissions in the US: Challenges and opportunities</title>
+  <link>https://epinowcast.org/seminars/2024-08-07-kaityln-johnson/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 7th of August at 3pm UK time, Dr Kaitlyn Johnson will discuss the challenges and opportunities in developing models and software tools that incorporate data on viral concentrations in wastewater to forecast hospital admissions in the US.</p>
+<p>While wastewater-based epidemiology presents a tremendous opportunity for passive, population-level infectious disease surveillance, the complexity of the wastewater data generating process and its relation with tradition epidemiological indicators makes integration into real-time infectious disease modeling frameworks challenging. In this talk, we present a model that jointly infers latent infection dynamics from wastewater data from multiple subpopulations and hospital admissions from a global population, in this case from individual US states. Building off of the semi-mechanistic renewal approach in <code>EpiNow2</code>, we add a wastewater data generating component and estimate the effective reproductive number at the global and local level using a hierarchical partial pooling model. We describe preliminary results evaluating the forecast performance of the model both retrospectively and in real-time. Lastly, we will describe the challenges and tradeoffs between developing pipelines for production for a specific problem versus developing generalizable tooling, specifically in the field of wastewater-based epidemiology where data structures and systems vary greatly.</p>
+<p>Kaitlyn Johnson is currently a data scientist at the Center for Forecasting and Outbreak Analytics at the US CDC. Prior to joining CDC, Kaitlyn worked as a data analyst at the Rockefeller Foundation, where she mainly focused on developing publicly available decision-support tools to estimate SARS-CoV-2 variant prevalence dynamics globally. Prior to joining Rockefeller, she worked as a post-doc at the UT COVID-19 Modeling Consortium led by Lauren Meyers at UT Austin. Here she worked closely with the university and the city of Austin to provide model-based analyses to inform COVID-19 policies and resource allocation. Her broader interests include: real-time outbreak analysis, open source tool development, wastewater-based epidemiology, partial pooling/hierarchical modeling, integration of complex and disparate data sources.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2024-08-07-kaityln-johnson/</guid>
+  <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Juliette (Ettie) Unwin - Using Hawkes Processes to model infectious disease transmission</title>
+  <link>https://epinowcast.org/seminars/2024-07-03-juliette-unwin/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 3rd of July at 3pm UK time, Dr Juliette Unwin will talk about using Hawkes Processes to model malaria in low transmission settings.</p>
+<p>Globally there were an estimated 249 million malaria cases and 608,000 malaria deaths in 85 countries during 2022, predominantly in Africa, with 34 countries reporting fewer than 1000 indigenous cases of the disease. Modelling malaria in low transmission settings is challenging because prohibitively large sample sizes are needed to use traditional gold standard measures such as parasite prevalence. Instead, Dr Unwin proposes using Hawkes Processes to capture malaria disease dynamics in countries that are close to eliminating malaria. The model combines malaria specific information, such as the shape of the infectious profile, within a rigorous statistical framework to fit incidence data. She will discuss how it is possible to accurately recreate the case counts over time with our Hawkes Process method. She will also discuss how it is possible to estimate the proportion of cases that are imported without using this information in the fitting process.</p>
+<p>Dr Unwin is a lecturer in Statistical Science at the University of Bristol. Her research focuses on developing novel methods for infectious disease response and has worked on diseases such as malaria, Ebola and COVID-19. In particular she is interested in developing efficient spatio-temporal methods.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2024-07-03-juliette-unwin/</guid>
+  <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Charlotte Hammer - John Snow in a digital world: Field epidemiology training in the 21st century</title>
+  <link>https://epinowcast.org/seminars/2024-06-05-Charlotte-Hammer/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 5th of June at 3pm UK time, Dr Charlotte Hammer will talk about field epidemiology and intersections with mathematical modeling.</p>
+<p>In recent years, field epidemiologists have embraced rapidly evolving digital tools, data sources and technologies, and collaborated with an ever-growing field of scientific specialisms. The COVID-19 pandemic put field epidemiology under unprecedented demand and scrutiny. In this talk, Dr Hammer will give a personal perspective on how field epidemiologists are trained and how the future of this field can look like, particularly with a focus on collaboration with other key actors for health protection including mathematical modelers. This talk should be of interest both to members of the epinowcast community who are considering applying for field epidemiology training as well as those working with field epidemiologists or planning to.</p>
+<p>Dr Hammer is the Everitt Butterfield Research Fellow in Biomedical Sciences at Downing College, University of Cambridge and a member of the Cambridge Infectious Diseases (CID) Steering Committee. In May she has taken on interim duties as senior epidemiologist and coordinator of the German Field Epidemiology Training Programme at the Robert Koch-Institute. Charlotte specialises in the epidemiology of emerging and high consequence infectious diseases, covering aspects such as risk factor identification, development of novel surveillance and outbreak response systems, and global health security. Her primary research interests are outbreaks at the human-animal-environment interface using a One Health lens, and the epidemiology of infectious diseases in conflict zones and other complex and fragile settings. Having worked for and across academia, national and international health emergency response, policy and the UN system, she has been involved in the COVID-19 response in the European Union and Papua New Guinea and in the Ebola response in the Democratic Republic of the Congo. In addition to her academic work, she maintains a strong involvement in public health emergency response and epidemic intelligence through deployments with organisations such as the World Health Organization and the Global Outbreak Alert and Response Network (for which she is also the CID Focal Point) as well as through capacity building for field epidemiology training programs across the world.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2024-06-05-Charlotte-Hammer/</guid>
+  <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Emily Pollock - Developing and deploying dynamic sexual network models for outbreak response in the US</title>
+  <link>https://epinowcast.org/seminars/2024-05-01-emily-pollock/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On Wednesday the 1st of May at 3pm UK time, Emily Pollock will be talking about CDC’s use of network models for outbreak response in the US.</p>
+<p>Since May 2022, the United States reported more than 30,000 cases of mpox, largely affecting gay, bisexual, and other men who have sex with men (MSM). Stochastic, temporal, exponential-family random graph models (STERGMs) were among the many tools used by the Centers for Disease Control and Prevention’s emergency response to the outbreak. In this talk, Dr.&nbsp;Pollock will present an overview of the data and methods used, discuss several sets of results and coordinated public health messaging, and reflect on modeling and communication challenges we encountered. She will also discuss ongoing improvements to this modeling framework to improve preparedness in the future, particularly in the face of increasing concerns over documented sexual transmission of clade I mpox in DRC.</p>
+<p>Emily Pollock is a Data Scientist at the Center for Forecasting and Outbreak Analytics at the US CDC. Previously, she was a Prevention Effectiveness Fellow at CDC with the Division of STD Prevention. She was deployed to the 2022 mpox emergency response as part of the Modeling Team.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2024-05-01-emily-pollock/</guid>
+  <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
