@@ -1,0 +1,35 @@
+---
+title: "Nina Schmid - Universal differential equations for epidemiology: Current state and open problems"
+date: 2026-03-04
+comments: false
+---
+
+On Wednesday March 4th, Nina Schmid will discuss universal differential equations for epidemiology.
+
+Universal Differential Equations (UDEs) augment mechanistic differential-equation models with neural networks to represent unknown processes, balancing structural interpretability with data-adaptive dynamics.
+However, UDEs face challenges in efficient and reliable training due to stiff dynamics and noisy, sparse data, as well as in ensuring the interpretability of the mechanistic model parameters.
+We investigate these challenges and evaluate UDE performance on biologically motivated benchmarks.
+Our results demonstrate the versatility of UDEs and show that optimisation stability and parameter interpretability are improved by combining key aspects of each methodological field, such as regularisation, multi-start methods, and hyperparameter optimisation.
+In the second part, we build on these results and develop a UDE framework for wastewater-based epidemiology, where translating viral-load measurements into actionable insights remains challenging.
+We formulate a susceptible-exposed-infectious-recovered (SEIR) UDE to link wastewater viral loads to case counts while learning time-varying parameters via neural networks, enabling non-stationary drivers to be captured without abandoning epidemiological constraints.
+We assess the method using newly collected SARS-CoV-2 data for Bonn, Germany, as well as published data for five cities in Rhineland-Palatinate, Germany.
+The proposed approach produces realistic, city-specific out-of-sample projections over a test horizon of up to 50 weeks.
+Accordingly, it facilitates scalable interpretation and exploitation of wastewater data for monitoring infectious diseases.
+
+Nina Schmid is a PhD candidate at the LIMES Institute, University of Bonn, working in Prof. Hasenauer's group.
+She studied mathematics (M.Sc.) at the Technical University of Munich with a focus on statistics and machine learning.
+Her main interests lie in hybrid modelling approaches to combine the benefits of mechanistic modelling and deep learning.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
