@@ -1,0 +1,37 @@
+---
+title: "Community Discussion - Recent work and future directions"
+date: 2026-04-01
+comments: false
+---
+
+On Wednesday the 1st of April at 3pm UK time, we're hosting an open community discussion instead of our regular seminar format.
+
+This will be a relaxed session with two parts.
+First, community members are invited to briefly share what they've been working on recently (a few minutes each).
+Second, we'll have an open discussion about the future of the seminar series, including thoughts on developing the format, potential rebranding of the forum, and any other ideas for the community.
+
+## Topics
+
+- **Brief updates from community members** - Share what you've been working on recently.
+- **Future of the seminar series** - Discussion of format, frequency, and content.
+- **Rebranding the forum** - Thoughts on naming and scope.
+- **Open discussion** - Any other topics or ideas for the community.
+
+## Format
+
+This session is designed to be interactive and collaborative.
+All community members are encouraged to participate and share their thoughts.
+
+Asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also contribute topics or ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
