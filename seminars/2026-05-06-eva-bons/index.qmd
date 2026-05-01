@@ -1,0 +1,25 @@
+---
+title: "Eva Bons - An overview of RespiCast and the choice of forecasting targets"
+date: 2026-05-06
+comments: false
+---
+
+On Wednesday May 6th, Eva Bons will give an overview of RespiCast, the ECDC's forecasting hub for respiratory diseases.
+
+[RespiCast](https://respicast.ecdc.europa.eu) is the ECDC's forecasting hub for respiratory diseases, providing weekly short-term forecasts of Influenza-Like-Illness (ILI) and Acute Respiratory Infections (ARI) through a collaborative, multi-model framework.
+The hub brings together an international community of modelling teams to generate forecasts that support situational awareness and public health decision-making across Europe.
+This presentation will provide an overview of RespiCast, with a particular focus on the choice of forecasting targets, highlighting both technical challenges and considerations for public-health relevance.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
