@@ -6,7 +6,7 @@ comments: false
 
 On 3rd June at 3pm UK time, we will host an Ebola-themed session of the Epinowcast community seminar series. 
 
-This session will feature short talks from 3-4 speakers followed by an extended open discussion.
+This session will feature short talks followed by an extended open discussion.
 
 Ebola virus disease presents some of the most demanding challenges in real-time epidemic analysis: sparse and delayed surveillance data, high case fatality rates requiring rapid situational awareness, and outbreak dynamics that can shift quickly in response to control measures. 
 Despite decades of experience responding to Ebola outbreaks across Central and West Africa, important methodological questions remain open, including how to best estimate transmissibility in real time, how to account for underreporting and observation delays, and how modelling tools can be made operationally useful for responders on the ground.
