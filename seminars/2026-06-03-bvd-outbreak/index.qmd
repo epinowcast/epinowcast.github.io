@@ -1,0 +1,29 @@
+---
+title: "2026 Ebola Outbreak Round Table"
+date: 2026-06-03
+comments: false
+---
+
+On 3rd June at 3pm UK time, we will host an Ebola-themed session of the Epinowcast community seminar series. 
+
+This session will feature short talks followed by an extended open discussion.
+
+Ebola virus disease presents some of the most demanding challenges in real-time epidemic analysis: sparse and delayed surveillance data, high case fatality rates requiring rapid situational awareness, and outbreak dynamics that can shift quickly in response to control measures. 
+Despite decades of experience responding to Ebola outbreaks across Central and West Africa, important methodological questions remain open, including how to best estimate transmissibility in real time, how to account for underreporting and observation delays, and how modelling tools can be made operationally useful for responders on the ground.
+
+Speakers will include Ciara Judge, Hugo Soubrier, Joshua Lambert, Nick Davies and Kath Sherratt.
+They will each offer a short perspective (5-10 minutes each) on topics including data management, transmission chains, contact tracing as well as the coordination and ethics of modelling responses, before we open the floor for 30-40 minutes of discussion with the wider community.
+
+Asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
