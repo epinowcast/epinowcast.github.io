@@ -11,7 +11,8 @@ This session will feature short talks from 3-4 speakers followed by an extended 
 Ebola virus disease presents some of the most demanding challenges in real-time epidemic analysis: sparse and delayed surveillance data, high case fatality rates requiring rapid situational awareness, and outbreak dynamics that can shift quickly in response to control measures. 
 Despite decades of experience responding to Ebola outbreaks across Central and West Africa, important methodological questions remain open, including how to best estimate transmissibility in real time, how to account for underreporting and observation delays, and how modelling tools can be made operationally useful for responders on the ground.
 
-Speakers will each offer a short perspective (5-10 minutes each) on topics including data management, transmission chains, contact tracing as well as the coordination and ethics of modelling responses, before we open the floor for 30-40 minutes of discussion with the wider community.
+Speakers will include Ciara Judge, Hugo Soubrier, Joshua Lambert, Nick Davies and Kath Sherratt.
+They will each offer a short perspective (5-10 minutes each) on topics including data management, transmission chains, contact tracing as well as the coordination and ethics of modelling responses, before we open the floor for 30-40 minutes of discussion with the wider community.
 
 Asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
 
