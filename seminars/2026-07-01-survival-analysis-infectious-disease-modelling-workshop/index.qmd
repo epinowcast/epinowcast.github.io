@@ -1,0 +1,28 @@
+---
+title: "2026 Survival analysis and infectious disease modelling workshop"
+date: 2026-07-01
+comments: false
+---
+
+On 1st July at 3pm UK time, we will host a session of the Epinowcast community seminar series about a workshop connecting survival analysis and infectious disease modelling. 
+
+This session will feature short talks followed by an open discussion.
+
+This five-day workshop, held at the Lorentz Center in the Netherlands, brought together survival analysis (SA) and infectious disease modelling (IDM) communities to bridge methodological gaps and build cross-disciplinary collaboration. The program combined introductory lectures (from Hein Putter on SA and Kylie Ainslie on IDM), hands-on group analysis, plenary discussions, a public symposium, and social events.
+
+Speakers will include Liesbeth de Wreede, Don Klinkenberg, and Julien Riou. The organisers will open with an overview of the workshop, after which participants will present highlights from their group work, followed by time for open discussion.
+
+Asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
+
