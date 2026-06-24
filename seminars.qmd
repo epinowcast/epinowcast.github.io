@@ -1,36 +1,28 @@
 ---
-title: "Real-time infectious disease modelling seminars"
+title: "Real-time Infectious Disease Modelling Seminars"
 listing:
   contents: seminars
   type: table
-  sort: date
+  sort: "date desc"
   feed: true
   id: seminar-lists
   fields: [date, title]
 comments: false
 ---
 
-We run a monthly virtual seminar focussing on real-time modelling of infectious disease with the primary aim of connecting between different silos of knowledge (i.e. between mathematical modellers, statisticians, decision-makers, epidemiologists, and others).
+We run a monthly virtual seminar focused on the real-time modelling of infectious diseases. Our goal is to bridge different communities (i.e., mathematical modellers, statisticians, epidemiologists, decision-makers, and others) and create a friendly, open space for discussion.
 
-This takes place on the first Wednesday of every month at 3pm UK time with recordings posted a week later on [our community site](https://community.epinowcast.org/c/meetings/8) alongside any discussion of the seminar.
+Each session lasts an hour, with talks of 20-40 minutes followed by questions and open community discussion — we put a real emphasis on that discussion! We love hearing the behind-the-scenes of people's research, so we actively encourage speakers to share the challenges they faced, the reasoning behind their choices, and any open questions they'd like to put to the room. Occasionally we mix things up with a journal club or community discussions, where participants share what they're currently working on and/or explore ideas together.
 
-We generally aim to fill the scheduled hour with talks ranging from 20-40 minutes followed by questions and community discussion.
+We meet on the first Wednesday of every month at 3pm UK time. Recordings are available on request if you can't join live, but we encourage you to come and be part of the conversation in real time!
 
-You can see a list of scheduled speakers [here](https://docs.google.com/spreadsheets/d/1OBkpxhiUPs0oXpmlUxlwhKfb3kBPaja7mUJlXXH3T60/edit#gid=0). If interested in speaking yourself, or in helping to organise this seminar series, please reach out to Sam Abbott or Kelly Charniga (the current organisers).
-
-Please do attend if interested in the real-time modelling of infectious disease.
+A list of scheduled speakers can be found [here](https://docs.google.com/spreadsheets/d/1Te1yUQ_Nhnc5xYOo_W4hbLD8rqvYOh2zHoR6g4Ae-UU/edit?gid=0#gid=0). If you're interested in speaking, or in helping to organise the series, please reach out to [Sam Abbott](mailto:sam.abbott@lshtm.ac.uk), [Fanny Bergström](mailto:fanny.bergstrom@maths.ox.ac.uk), or [Clara Brigitta](mailto:clara.brigitta@lshtm.ac.uk).
 
 ## Connect to seminars
 
-You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+You can stay up to date by adding our events to your calendar — via [Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t), or with [this iCal link](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics) for non-Google users. You can also follow our [RSS feed](seminars.xml).
 
-Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
-
-Or follow [this RSS feed](seminars.xml).
-
-Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
-
-To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+To join a session directly, just use this Zoom link: [https://lshtm.zoom.us/j/8290218109](https://lshtm.zoom.us/j/8290218109)
 
 ## Upcoming and previous seminars
 
@@ -39,5 +31,4 @@ To get an email with details of community meetings you can sign up to our commun
 
 ## Seminar recordings
 
-When possible we record seminars and post the recordings to YouTube. You can find a playlist of
-all the recordings [here](https://www.youtube.com/playlist?list=PLJF2tUal-H-QKqfL1qsnJYo0TYdWEzUfT).
+Recordings of previous sessions, where available, are posted to our [YouTube playlist](https://www.youtube.com/playlist?list=PLJF2tUal-H-QKqfL1qsnJYo0TYdWEzUfT).

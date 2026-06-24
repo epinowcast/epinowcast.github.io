@@ -29,8 +29,6 @@ website:
             href:  "https://hashprng.epinowcast.org/dev/"
       - text: "Community"
         menu:
-        - text: Meetings
-          href: meetings.qmd
         - text: Seminars
           href: seminars.qmd
         - text: "Forum"

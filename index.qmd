@@ -14,17 +14,14 @@ about:
     - icon: github
       text: Github
       href: https://github.com/epinowcast
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/epinowcast
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-We are a community of infectious disease modellers, applied epidemiologists, software developers, and others building a suite of tools for real-time analysis of infectious diseases. On top of developing these tools, we also do research on when they work and when they don't, write case studies to showcase best practices, support users and decision-makers, and compare our work to that of others.
+Epinowcast is a community of infectious disease modellers, applied epidemiologists, software developers, and others working on real-time analysis of infectious diseases. Together we develop a suite of open-source tools (including the epinowcast R package and those part of our wider R-universe) and run a seminar series bringing together researchers and practitioners from across the field. We also conduct methodological research, write case studies showcasing best practices, support users and decision-makers, and compare our work to that of others.
 
-We strongly believe that the challenges we face in the real-time analysis of infectious disease can only be overcome as a community collaboration.
+We strongly believe that the challenges we face in the real-time analysis of infectious disease can only be overcome through community collaboration.
 
-We are still in the early stages of building our community so now is a great time to jump in.
+Whether you are interested in the software, the seminars, or the wider community, you are very welcome to join us.
