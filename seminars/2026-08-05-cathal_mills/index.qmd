@@ -1,5 +1,5 @@
 ---
-title: "2026 Survival analysis and infectious disease modelling workshop"
+title: "Cathal Mills - Mechanism-led renewal equations"
 date: 2026-08-05
 comments: false
 ---
