@@ -1,0 +1,26 @@
+---
+title: "Cathal Mills - Mechanism-led renewal equations"
+date: 2026-08-05
+comments: false
+---
+
+On 5th August at 3pm UK time, Cathal Mills will present his work on mechanism-led renewal equations.
+
+Renewal equations are one of the most popular ways to estimate key epidemic control indicators. This work focuses on new mathematical methods that address where traditional renewal equations may fail to capture the human, biological, and environmental complexities of epidemics.
+
+Cathal Mills is a Florence Nightingale Bicentenary Research Fellow at the University of Oxford, where he also completed his DPhil. His research focuses on using infectious disease modelling in resource-limited settings to inform policy and benefit public health. Throughout this research, he develops interdisciplinary methods which blend modelling approaches across mathematical biology, statistics, and deep learning. These methods often integrate data and theory from across branches of science, and are grounded in the practical objectives of providing reliable, timely, and useful information for decision-makers. 
+
+Asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
+
