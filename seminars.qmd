@@ -20,9 +20,9 @@ A list of scheduled speakers can be found [here](https://docs.google.com/spreads
 
 ## Connect to seminars
 
-You can stay up to date by adding our events to your calendar — via [Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t), or with [this iCal link](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics) for non-Google users. You can also follow our [RSS feed](seminars.xml).
+You can stay up to date by adding our events to your calendar — via [Google Calendar](https://lshtm.zoom.us/meeting/tZMsc-2urTMqHNJEEwTCYIwmkXgYHHaTg6PD/calendar/google/add?meetingMasterEventId=rd4tOJIGRyuTDseBkNQyVA), [iCal ](https://lshtm.zoom.us/meeting/tZMsc-2urTMqHNJEEwTCYIwmkXgYHHaTg6PD/ics?icsToken=DN7Vq2mM5VOCtHvE3AAALAAAAAIM4GMluI5z0R-ITR-wRtZJGvm8oofc_7JEZsvJOH612ioHdeFN2fV-wSP762v9qioM2mXlxLjWjznRNDAwMDAwMQ&meetingMasterEventId=rd4tOJIGRyuTDseBkNQyVA) or [Outlook calendar ](https://lshtm.zoom.us/meeting/tZMsc-2urTMqHNJEEwTCYIwmkXgYHHaTg6PD/ics?meetingMasterEventId=rd4tOJIGRyuTDseBkNQyVA).
 
-To join a session directly, just use this Zoom link: [https://lshtm.zoom.us/j/8290218109](https://lshtm.zoom.us/j/8290218109)
+To join a session directly, just use this Zoom link: [https://lshtm.zoom.us/j/87144638066?pwd=VyjUxZh2tZeeAd68RW5IBQbAZl5gC5.1](https://lshtm.zoom.us/j/87144638066?pwd=VyjUxZh2tZeeAd68RW5IBQbAZl5gC5.1)
 
 ## Upcoming and previous seminars
 
