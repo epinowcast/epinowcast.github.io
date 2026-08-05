@@ -20,7 +20,7 @@ A list of scheduled speakers can be found [here](https://docs.google.com/spreads
 
 ## Connect to seminars
 
-You can stay up to date by adding our events to your calendar — via [Google Calendar](https://lshtm.zoom.us/meeting/tZMsc-2urTMqHNJEEwTCYIwmkXgYHHaTg6PD/calendar/google/add?meetingMasterEventId=rd4tOJIGRyuTDseBkNQyVA), [iCal ](https://lshtm.zoom.us/meeting/tZMsc-2urTMqHNJEEwTCYIwmkXgYHHaTg6PD/ics?icsToken=DN7Vq2mM5VOCtHvE3AAALAAAAAIM4GMluI5z0R-ITR-wRtZJGvm8oofc_7JEZsvJOH612ioHdeFN2fV-wSP762v9qioM2mXlxLjWjznRNDAwMDAwMQ&meetingMasterEventId=rd4tOJIGRyuTDseBkNQyVA) or [Outlook calendar ](https://lshtm.zoom.us/meeting/tZMsc-2urTMqHNJEEwTCYIwmkXgYHHaTg6PD/ics?meetingMasterEventId=rd4tOJIGRyuTDseBkNQyVA).
+You can stay up to date by adding our events to your calendar — via [Google Calendar](https://drive.google.com/uc?export=download&id=11lXBWOMwEx5kevSlj1zNMzjsjc7L7XGl), [iCal ](https://drive.google.com/uc?export=download&id=11lXBWOMwEx5kevSlj1zNMzjsjc7L7XGl) or [Outlook calendar ](https://drive.google.com/uc?export=download&id=11lXBWOMwEx5kevSlj1zNMzjsjc7L7XGl).
 
 To join a session directly, just use this Zoom link: [https://lshtm.zoom.us/j/87144638066?pwd=VyjUxZh2tZeeAd68RW5IBQbAZl5gC5.1](https://lshtm.zoom.us/j/87144638066?pwd=VyjUxZh2tZeeAd68RW5IBQbAZl5gC5.1)
 
