@@ -4,7 +4,13 @@ date: 2026-09-02
 comments: false
 ---
 
-On 2nd September at 10am UK time, Dr Alvin Han from the Communicable Diseases Agency, Singapore's Public Health Agency, will present some of the agency's recent efforts in national flu forecasting.
+On 2nd September at 10am UK time, Dr Alvin Han from the Communicable Disease Agency, Singapore's Public Health Agency, will present some of the agency's recent efforts in national flu forecasting.
+
+Like other countries in Southeast Asia with tropical climates, Singapore experiences persistent, year-round circulation of many respiratory viruses, including seasonal influenza viruses and SARS-CoV-2. 
+Unlike the temperate seasonality familiar to many in Europe, this endemicity presents distinct epidemiological and public health challenges. 
+The Communicable Disease Agency in Singapore utilises multiple surveillance indicators to track and assess influenza and COVID-19 activity, including generating nowcasts and forecasts of incidence and healthcare utilisation. 
+This seminar provides an overview of these surveillance systems, offering insights into public health practice in Singapore and its approach to managing endemic respiratory disease.
+
 
 ## Connect to seminars
 
