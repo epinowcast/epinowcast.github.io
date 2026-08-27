@@ -1,0 +1,25 @@
+---
+title: "Alvin Han - Flu forecasting in Singapore"
+date: 2026-09-02
+comments: false
+---
+
+On 2nd September at 10am UK time, Dr Alvin Han from the Communicable Disease Agency, Singapore's Public Health Agency, will present some of the agency's recent efforts in national flu forecasting.
+
+Like other countries in Southeast Asia with tropical climates, Singapore experiences persistent, year-round circulation of many respiratory viruses, including seasonal influenza viruses and SARS-CoV-2. 
+Unlike the temperate seasonality familiar to many in Europe, this endemicity presents distinct epidemiological and public health challenges. 
+The Communicable Disease Agency in Singapore utilises multiple surveillance indicators to track and assess influenza and COVID-19 activity, including generating nowcasts and forecasts of incidence and healthcare utilisation. 
+This seminar provides an overview of these surveillance systems, offering insights into public health practice in Singapore and its approach to managing endemic respiratory disease.
+
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://drive.google.com/uc?export=download&id=11lXBWOMwEx5kevSlj1zNMzjsjc7L7XGl)
+
+Or here for non-Google calendar users: [iCal link ](https://drive.google.com/uc?export=download&id=11lXBWOMwEx5kevSlj1zNMzjsjc7L7XGl) or [Outlook link ](https://drive.google.com/uc?export=download&id=11lXBWOMwEx5kevSlj1zNMzjsjc7L7XGl)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/87144638066?pwd=VyjUxZh2tZeeAd68RW5IBQbAZl5gC5.1 ](https://lshtm.zoom.us/j/87144638066?pwd=VyjUxZh2tZeeAd68RW5IBQbAZl5gC5.1)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
