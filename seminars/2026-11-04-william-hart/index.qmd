@@ -1,0 +1,28 @@
+---
+title: "William Hart - Mechanism-led renewal equations"
+date: 2026-11-04
+comments: false
+---
+
+On 4 November at 3pm UK time, William Hart will present his work on mathematical modelling of the end of infectious disease outbreaks.
+
+Following the apparent final case in an infectious disease outbreak, the decision to relax control measures must balance the risk of additional cases occurring against societal costs of keeping interventions in place. For Ebola, the WHO recommends a waiting period of 42 days from the resolution of the final case until the outbreak can be declared over and interventions relaxed. However, such fixed-duration rules do not account for outbreak-specific determinants of the risk of additional cases, such as the reproduction number and the extent of under-reporting.
+Here, we present a renewal model-based framework for quantifying the probability of additional cases occurring given observed disease incidence data. We demonstrate applications to Ebola outbreaks in DR Congo, where the framework validated real-time decisions on response team deployment. 
+Then, we extend our approach to scenarios with seasonal transmission, such as Aedes mosquito-borne virus transmission in temperate settings. We apply our framework to the 2017 chikungunya outbreak in Italy, integrating incidence data with estimates of temperature suitability for transmission. Our model incorporating an end-of-season decline in transmission indicates a lower risk of additional cases late in the outbreak than a model based on incidence alone. Incorporating seasonality in model-based assessments of transmission risks at the end of an outbreak can therefore support more timely and reliable decision making.
+
+William Hart is a Postdoctoral Research Associate in Climate Sensitive Infectious Disease Modelling at the Wolfson Centre for Mathematical Biology, University of Oxford.
+
+Asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
+
