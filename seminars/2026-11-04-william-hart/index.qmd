@@ -1,5 +1,5 @@
 ---
-title: "William Hart - Mechanism-led renewal equations"
+title: "William Hart - Mathematical modelling of the end of infectious disease outbreaks"
 date: 2026-11-04
 comments: false
 ---
