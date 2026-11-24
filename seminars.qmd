@@ -14,15 +14,28 @@ We run a monthly virtual seminar focused on the real-time modelling of infectiou
 
 Each session lasts an hour, with talks of 20-40 minutes followed by questions and open community discussion — we put a real emphasis on that discussion! We love hearing the behind-the-scenes of people's research, so we actively encourage speakers to share the challenges they faced, the reasoning behind their choices, and any open questions they'd like to put to the room. Occasionally we mix things up with a journal club or community discussions, where participants share what they're currently working on and/or explore ideas together.
 
-We meet on the first Wednesday of every month at 3pm UK time. Recordings are available on request if you can't join live, but we encourage you to come and be part of the conversation in real time!
+We meet on the first Wednesday of every month, alternating between 10am and 3pm UK time to accommodate speakers and audiences across different time zones. Recordings are available on request if you can't join live, but we encourage you to come and be part of the conversation in real time!
 
-A list of scheduled speakers can be found [here](https://docs.google.com/spreadsheets/d/1Te1yUQ_Nhnc5xYOo_W4hbLD8rqvYOh2zHoR6g4Ae-UU/edit?gid=0#gid=0). If you're interested in speaking, or in helping to organise the series, please reach out to [Sam Abbott](mailto:sam.abbott@lshtm.ac.uk), [Fanny Bergström](mailto:fanny.bergstrom@maths.ox.ac.uk), or [Clara Brigitta](mailto:clara.brigitta@lshtm.ac.uk).
+If you're interested in speaking, or in helping to organise the series, please reach out to [Sam Abbott](mailto:sam.abbott@lshtm.ac.uk), [Fanny Bergström](mailto:fanny.bergstrom@maths.ox.ac.uk), or [Clara Brigitta](mailto:clara.brigitta@lshtm.ac.uk).
 
 ## Connect to seminars
 
-You can stay up to date by adding our events to your calendar — via [Google Calendar](https://drive.google.com/uc?export=download&id=11lXBWOMwEx5kevSlj1zNMzjsjc7L7XGl), [iCal ](https://drive.google.com/uc?export=download&id=11lXBWOMwEx5kevSlj1zNMzjsjc7L7XGl) or [Outlook calendar ](https://drive.google.com/uc?export=download&id=11lXBWOMwEx5kevSlj1zNMzjsjc7L7XGl).
+The easiest way to stay up-to-date with our events is to subscribe to the Epinowcast calendar. It shows each seminar in your own time zone and updates automatically if anything changes.
 
-To join a session directly, just use this Zoom link: [https://lshtm.zoom.us/j/87144638066?pwd=VyjUxZh2tZeeAd68RW5IBQbAZl5gC5.1](https://lshtm.zoom.us/j/87144638066?pwd=VyjUxZh2tZeeAd68RW5IBQbAZl5gC5.1)
+1. Copy this link: [Epinowcast calendar subscription link](https://outlook.office365.com/owa/calendar/9115345ed6e340569ad570f7e526caec@lshtm.ac.uk/37c855a4cd3747898ded50d46b726bab4145027612668565380/calendar.ics)
+2. Paste it into your calendar app:
+   - **Outlook web**: Add calendar → Subscribe from web → paste the link
+   - **Google Calendar**: Other calendars (+) → From URL → paste the link
+   - **Apple Calendar**: File → New Calendar Subscription → paste the link (you can choose how often it refreshes)
+
+Please subscribe using the steps above rather than downloading the file. A downloaded copy won't update. Changes can take up to 24 hours to appear in your calendar.
+
+Other options:
+- [View the schedule and our speakers online](https://outlook.office365.com/owa/calendar/9115345ed6e340569ad570f7e526caec@lshtm.ac.uk/37c855a4cd3747898ded50d46b726bab4145027612668565380/calendar.html) without subscribing.
+- The Zoom link stays the same for every seminar so you can still always join directly: [https://lshtm.zoom.us/j/86958460235?pwd=vrBD99Kv4xXr3ixwrnyfDrTbDQ9KUN.1](https://lshtm.zoom.us/j/86958460235?pwd=vrBD99Kv4xXr3ixwrnyfDrTbDQ9KUN.1)
+
+## Join our mailing list
+To stay up-to-date with the community and all future seminars, you can sign up to our [mailing list](https://listserv.lshtm.ac.uk/cgi-bin/wa?SUBED1=EPINOWCAST-L)
 
 ## Upcoming and previous seminars
 

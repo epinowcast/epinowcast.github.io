@@ -1,0 +1,31 @@
+---
+title: "Vincent Lomas - A method for including additional socio-demographic factors in social contact matrices for compartment-based epidemic models"
+date: 2026-12-02
+comments: false
+---
+
+On 2nd December at 9am UK time, Vincent Lomas from the University of Canterbury will present some of his work integrating socio-demographic factors into epidemic models.
+
+Infectious disease models typically account for age as a key sociodemographic factor that affects the transmission and burden of disease. However, these models often don't account for other sociodemographic factors, such as ethnicity, that are of key interest to policy decision makers leaving burden estimates of key groups up in the air. Our work aimed to extend age-based social contact matrices to explore how epidemic outcomes change when accounting for additional socio-demographic factors.
+
+
+## Connect to seminars
+
+The easiest way to stay up-to-date with our events is to subscribe to the Epinowcast calendar. It shows each seminar in your own time zone and updates automatically if anything changes.
+
+1. Copy this link: [Epinowcast calendar subscription link](https://outlook.office365.com/owa/calendar/9115345ed6e340569ad570f7e526caec@lshtm.ac.uk/37c855a4cd3747898ded50d46b726bab4145027612668565380/calendar.ics)
+2. Paste it into your calendar app:
+   - **Outlook web**: Add calendar → Subscribe from web → paste the link
+   - **Google Calendar**: Other calendars (+) → From URL → paste the link
+   - **Apple Calendar**: File → New Calendar Subscription → paste the link (you can choose how often it refreshes)
+
+Please subscribe using the steps above rather than downloading the file. A downloaded copy won't update. Changes can take up to 24 hours to appear in your calendar.
+
+Other options:
+
+- [View the schedule and our speakers online](https://outlook.office365.com/owa/calendar/9115345ed6e340569ad570f7e526caec@lshtm.ac.uk/37c855a4cd3747898ded50d46b726bab4145027612668565380/calendar.html) without subscribing.
+- The Zoom link stays the same for every seminar so you can still always join directly: [https://lshtm.zoom.us/j/86958460235?pwd=vrBD99Kv4xXr3ixwrnyfDrTbDQ9KUN.1](https://lshtm.zoom.us/j/86958460235?pwd=vrBD99Kv4xXr3ixwrnyfDrTbDQ9KUN.1)
+
+To stay up-to-date with the community and all future seminars, you can sign up to our **[mailing list](https://listserv.lshtm.ac.uk/cgi-bin/wa?SUBED1=EPINOWCAST-L)** or community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
