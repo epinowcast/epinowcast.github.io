@@ -26,6 +26,6 @@ Other options:
 - [View the schedule and our speakers online](https://outlook.office365.com/owa/calendar/9115345ed6e340569ad570f7e526caec@lshtm.ac.uk/37c855a4cd3747898ded50d46b726bab4145027612668565380/calendar.html) without subscribing.
 - The Zoom link stays the same for every seminar so you can still always join directly: [https://lshtm.zoom.us/j/86958460235?pwd=vrBD99Kv4xXr3ixwrnyfDrTbDQ9KUN.1](https://lshtm.zoom.us/j/86958460235?pwd=vrBD99Kv4xXr3ixwrnyfDrTbDQ9KUN.1)
 
-To stay up-to-date with the community and all future seminars, you can sign up to our **[mailing list](https://listserv.lshtm.ac.uk/cgi-bin/wa?SUBED1=EPINOWCAST-L)** or community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+To stay up-to-date with the community and all future seminars, you can sign up to our **[mailing list](https://forms.cloud.microsoft/e/r5TS0QCzTj)** or community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
 
 More details about this seminar series are available [here](../../seminars.qmd).
